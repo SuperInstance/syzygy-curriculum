@@ -1,0 +1,104 @@
+{
+ "n_scored_records": 360,
+ "n_failed_attempts_in_log": 44,
+ "accuracy": {
+  "glm": {
+   "frame": {
+    "correct": 133,
+    "total": 300,
+    "acc": 0.4433
+   },
+   "blind": {
+    "correct": 46,
+    "total": 300,
+    "acc": 0.1533
+   },
+   "shuffled": {
+    "correct": 101,
+    "total": 300,
+    "acc": 0.3367
+   }
+  },
+  "minimax": {
+   "frame": {
+    "correct": 106,
+    "total": 300,
+    "acc": 0.3533
+   },
+   "blind": {
+    "correct": 32,
+    "total": 300,
+    "acc": 0.1067
+   },
+   "shuffled": {
+    "correct": 76,
+    "total": 300,
+    "acc": 0.2533
+   }
+  }
+ },
+ "per_question": {
+  "glm": {
+   "frame": {
+    "Q1": 0.5167,
+    "Q2": 0.5333,
+    "Q3": 0.6,
+    "Q4": 0.0667,
+    "Q5": 0.5
+   },
+   "blind": {
+    "Q1": 0.0167,
+    "Q2": 0.05,
+    "Q3": 0.3167,
+    "Q4": 0.0,
+    "Q5": 0.3833
+   },
+   "shuffled": {
+    "Q1": 0.0833,
+    "Q2": 0.45,
+    "Q3": 0.6333,
+    "Q4": 0.0333,
+    "Q5": 0.4833
+   }
+  },
+  "minimax": {
+   "frame": {
+    "Q1": 0.2667,
+    "Q2": 0.3,
+    "Q3": 0.5333,
+    "Q4": 0.1833,
+    "Q5": 0.4833
+   },
+   "blind": {
+    "Q1": 0.0333,
+    "Q2": 0.0833,
+    "Q3": 0.2167,
+    "Q4": 0.0167,
+    "Q5": 0.1833
+   },
+   "shuffled": {
+    "Q1": 0.05,
+    "Q2": 0.3833,
+    "Q3": 0.3833,
+    "Q4": 0.0,
+    "Q5": 0.45
+   }
+  }
+ },
+ "parse_failures": {
+  "glm": {
+   "frame": 0,
+   "blind": 161,
+   "shuffled": 0
+  },
+  "minimax": {
+   "frame": 40,
+   "blind": 166,
+   "shuffled": 37
+  }
+ },
+ "lift": {
+  "glm": 0.29,
+  "minimax": 0.2466
+ }
+}

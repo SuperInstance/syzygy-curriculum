@@ -1,0 +1,2890 @@
+[
+ {
+  "reader": "glm",
+  "episode_id": "ep00",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "8",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep01",
+  "qid": "Q1",
+  "truth": "E",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 13\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep01",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "13",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 13\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep01",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 13\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep02",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "E",
+  "raw_output": "Q1: E\nQ2: 2\nQ3: no\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep02",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "11",
+  "raw_output": "Q1: E\nQ2: 2\nQ3: no\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep03",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep03",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep03",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep04",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "9",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep05",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "N",
+  "raw_output": "Q1: N\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep05",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: N\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep05",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: N\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep05",
+  "qid": "Q4",
+  "truth": "12",
+  "parsed": "8",
+  "raw_output": "Q1: N\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep05",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: N\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep06",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "2",
+  "raw_output": "Q1: NE\nQ2: 2\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep06",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: NE\nQ2: 2\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep06",
+  "qid": "Q4",
+  "truth": "17",
+  "parsed": "24",
+  "raw_output": "Q1: NE\nQ2: 2\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep07",
+  "qid": "Q4",
+  "truth": "20",
+  "parsed": "12",
+  "raw_output": "Q1: SW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep07",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep08",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: NE\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep08",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "8",
+  "raw_output": "Q1: NE\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep09",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "12",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep09",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep10",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep10",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep10",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "16",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep11",
+  "qid": "Q4",
+  "truth": "17",
+  "parsed": "19",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 19\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep11",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 19\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep12",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "3",
+  "raw_output": "Q1: NE\nQ2: 3\nQ3: yes\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep12",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NE\nQ2: 3\nQ3: yes\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep12",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "11",
+  "raw_output": "Q1: NE\nQ2: 3\nQ3: yes\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep13",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "NW",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep13",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep13",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "11",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep13",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep14",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "S",
+  "raw_output": "Q1: S\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep14",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: S\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep14",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": "10",
+  "raw_output": "Q1: S\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep15",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 30\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep15",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 30\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep15",
+  "qid": "Q4",
+  "truth": "18",
+  "parsed": "30",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 30\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep15",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 30\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep16",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep16",
+  "qid": "Q4",
+  "truth": "5",
+  "parsed": "10",
+  "raw_output": "Q1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep17",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "10",
+  "raw_output": "Q1: NE\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep17",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NE\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep18",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep18",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep18",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "14",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep19",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep19",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "18",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep19",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep20",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SW\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep21",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Q1: E\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep21",
+  "qid": "Q4",
+  "truth": "15",
+  "parsed": "14",
+  "raw_output": "Q1: E\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep21",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: E\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep22",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep22",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "1",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep22",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": "16",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep23",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep23",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "16",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep23",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep24",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep24",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "12",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep25",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NE\nQ2: 2\nQ3: yes\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep25",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": "10",
+  "raw_output": "Q1: NE\nQ2: 2\nQ3: yes\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep25",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NE\nQ2: 2\nQ3: yes\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep26",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "18",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep27",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "E",
+  "raw_output": "Q1: E\nQ2: 1\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep27",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "1",
+  "raw_output": "Q1: E\nQ2: 1\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep27",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "24",
+  "raw_output": "Q1: E\nQ2: 1\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep27",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: E\nQ2: 1\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep28",
+  "qid": "Q1",
+  "truth": "N",
+  "parsed": "NW",
+  "raw_output": "Q1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep28",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep28",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "10",
+  "raw_output": "Q1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep29",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep29",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "12",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep29",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep30",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep30",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep30",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep30",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "18",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep31",
+  "qid": "Q4",
+  "truth": "19",
+  "parsed": "24",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep31",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 24\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep32",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Q1: E\nQ2: 3\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep32",
+  "qid": "Q2",
+  "truth": "1",
+  "parsed": "3",
+  "raw_output": "Q1: E\nQ2: 3\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep32",
+  "qid": "Q4",
+  "truth": "5",
+  "parsed": "10",
+  "raw_output": "Q1: E\nQ2: 3\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep33",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep33",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": "18",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep33",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep34",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep34",
+  "qid": "Q4",
+  "truth": "12",
+  "parsed": "14",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep35",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 21\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep35",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "21",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 21\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep35",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 21\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep36",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "12",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep37",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep37",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep37",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "16",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep37",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep38",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "1",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 20\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep38",
+  "qid": "Q4",
+  "truth": "14",
+  "parsed": "20",
+  "raw_output": "Q1: SW\nQ2: 1\nQ3: no\nQ4: 20\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep39",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: NE\nQ2: 1\nQ3: no\nQ4: 28\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep39",
+  "qid": "Q4",
+  "truth": "14",
+  "parsed": "28",
+  "raw_output": "Q1: NE\nQ2: 1\nQ3: no\nQ4: 28\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep39",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NE\nQ2: 1\nQ3: no\nQ4: 28\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep40",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep40",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "10",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep41",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep41",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep41",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep42",
+  "qid": "Q1",
+  "truth": "S",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep42",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep42",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep42",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "18",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep43",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "0",
+  "raw_output": "Q1: NW\nQ2: 0\nQ3: no\nQ4: 22\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep43",
+  "qid": "Q4",
+  "truth": "19",
+  "parsed": "22",
+  "raw_output": "Q1: NW\nQ2: 0\nQ3: no\nQ4: 22\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep43",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NW\nQ2: 0\nQ3: no\nQ4: 22\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep44",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Q1: E\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep44",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "12",
+  "raw_output": "Q1: E\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep45",
+  "qid": "Q2",
+  "truth": "1",
+  "parsed": "2",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep45",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep45",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "14",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep45",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep46",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: yes\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep46",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: yes\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep46",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "18",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: yes\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep47",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 17\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep47",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "17",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 17\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep47",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 17\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep48",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Q1: E\nQ2: 3\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep48",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "3",
+  "raw_output": "Q1: E\nQ2: 3\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep48",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: E\nQ2: 3\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep49",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "N",
+  "raw_output": "Q1: N\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep49",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "12",
+  "raw_output": "Q1: N\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep49",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: N\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep50",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep50",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "18",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep51",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 22\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep51",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 22\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep51",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "22",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 22\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep51",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 22\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep52",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep52",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "2",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep52",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep52",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "10",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep53",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep53",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "14",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep53",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: NW\nQ2: 2\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep54",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 20\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep54",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "20",
+  "raw_output": "Q1: W\nQ2: 2\nQ3: no\nQ4: 20\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep55",
+  "qid": "Q1",
+  "truth": "E",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep55",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "18",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep55",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 18\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep56",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "W",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: yes\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep56",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: yes\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep56",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: yes\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep56",
+  "qid": "Q4",
+  "truth": "5",
+  "parsed": "9",
+  "raw_output": "Q1: W\nQ2: 1\nQ3: yes\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep57",
+  "qid": "Q1",
+  "truth": "E",
+  "parsed": "SE",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep57",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep57",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep57",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": "14",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep57",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 1\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep58",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep58",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "16",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep59",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "28",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 28\nQ5: yes"
+ },
+ {
+  "reader": "glm",
+  "episode_id": "ep59",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE\nQ2: 2\nQ3: no\nQ4: 28\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep00",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "9",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at position (4,9) and 'G' at position (2,2)\n2. Counting walls around 'A': north is wall, south is free, east is wall, west is free\n3. The cell west of 'A' is free (.)\n4. Counting Manhattan distance: 2 steps north + 7 steps west = 9 steps\n5. I can see a clear path from 'A' to 'G' through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep01",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 10, column 4 and 'G' (goal) at row 10, column 11\n2. From the agent's position, I can check each question:\n   - Q1: The goal is to the right (east) of the agent\n   - Q2: Checking the 4 adjacent cells:\n     - North: wall\n     - South: free\n     - East: free\n     - West: wall\n     So 2 walls\n   - Q3: The cell west of the agent is a wall\n   - Q4: Counting steps east from A to G: 7 steps\n   - Q5: Yes, a path exists (I can see a clear path east from A to G)\n\nHere are the answers:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep01",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "7",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 10, column 4 and 'G' (goal) at row 10, column 11\n2. From the agent's position, I can check each question:\n   - Q1: The goal is to the right (east) of the agent\n   - Q2: Checking the 4 adjacent cells:\n     - North: wall\n     - South: free\n     - East: free\n     - West: wall\n     So 2 walls\n   - Q3: The cell west of the agent is a wall\n   - Q4: Counting steps east from A to G: 7 steps\n   - Q5: Yes, a path exists (I can see a clear path east from A to G)\n\nHere are the answers:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep01",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 10, column 4 and 'G' (goal) at row 10, column 11\n2. From the agent's position, I can check each question:\n   - Q1: The goal is to the right (east) of the agent\n   - Q2: Checking the 4 adjacent cells:\n     - North: wall\n     - South: free\n     - East: free\n     - West: wall\n     So 2 walls\n   - Q3: The cell west of the agent is a wall\n   - Q4: Counting steps east from A to G: 7 steps\n   - Q5: Yes, a path exists (I can see a clear path east from A to G)\n\nHere are the answers:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep02",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the southeast of the agent (A).\nAnswer: SE\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: wall (#)\n- East: free (.)\n- West: wall (#)\nSo there are 2 walls adjacent to the agent.\nAnswer: 2\n\nQ3: The cell immediately west of the agent is a wall (#).\nAnswer: yes\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 5, column 6\n- The goal is at row 10, column 13\n- Row difference: |5 - 10| = 5\n- Column difference: |6 - 13| = 7\n- Total Manhattan distance: 5 + 7 = 12\nAnswer: 12\n\nQ5: Yes, there is a clear path from A to G through the free cells (.) avoiding all walls (#).\nAnswer: yes\n\nFinal answers:\nQ1: SE\nQ2: 2\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep02",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the southeast of the agent (A).\nAnswer: SE\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: wall (#)\n- East: free (.)\n- West: wall (#)\nSo there are 2 walls adjacent to the agent.\nAnswer: 2\n\nQ3: The cell immediately west of the agent is a wall (#).\nAnswer: yes\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 5, column 6\n- The goal is at row 10, column 13\n- Row difference: |5 - 10| = 5\n- Column difference: |6 - 13| = 7\n- Total Manhattan distance: 5 + 7 = 12\nAnswer: 12\n\nQ5: Yes, there is a clear path from A to G through the free cells (.) avoiding all walls (#).\nAnswer: yes\n\nFinal answers:\nQ1: SE\nQ2: 2\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep02",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the southeast of the agent (A).\nAnswer: SE\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: wall (#)\n- East: free (.)\n- West: wall (#)\nSo there are 2 walls adjacent to the agent.\nAnswer: 2\n\nQ3: The cell immediately west of the agent is a wall (#).\nAnswer: yes\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 5, column 6\n- The goal is at row 10, column 13\n- Row difference: |5 - 10| = 5\n- Column difference: |6 - 13| = 7\n- Total Manhattan distance: 5 + 7 = 12\nAnswer: 12\n\nQ5: Yes, there is a clear path from A to G through the free cells (.) avoiding all walls (#).\nAnswer: yes\n\nFinal answers:\nQ1: SE\nQ2: 2\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep03",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 13, column 19 and 'G' (goal) at row 13, column 4.\n\n2. The agent is surrounded by:\n   - North: wall\n   - South: free space\n   - East: wall\n   - West: free space\n\n3. To answer the questions:\n\nQ1: W (The goal is directly west of the agent)\nQ2: 2 (The agent has walls to the north and east)\nQ3: no (The cell immediately west of the agent is free space '.')\nQ4: 15 (Counting the steps from A to G: 15 steps west)\nQ5: yes (A clear path exists through the free cells)\n\nQ1: W\nQ2: 2\nQ3: no\nQ4: 15\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep03",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": "15",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 13, column 19 and 'G' (goal) at row 13, column 4.\n\n2. The agent is surrounded by:\n   - North: wall\n   - South: free space\n   - East: wall\n   - West: free space\n\n3. To answer the questions:\n\nQ1: W (The goal is directly west of the agent)\nQ2: 2 (The agent has walls to the north and east)\nQ3: no (The cell immediately west of the agent is free space '.')\nQ4: 15 (Counting the steps from A to G: 15 steps west)\nQ5: yes (A clear path exists through the free cells)\n\nQ1: W\nQ2: 2\nQ3: no\nQ4: 15\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep03",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 13, column 19 and 'G' (goal) at row 13, column 4.\n\n2. The agent is surrounded by:\n   - North: wall\n   - South: free space\n   - East: wall\n   - West: free space\n\n3. To answer the questions:\n\nQ1: W (The goal is directly west of the agent)\nQ2: 2 (The agent has walls to the north and east)\nQ3: no (The cell immediately west of the agent is free space '.')\nQ4: 15 (Counting the steps from A to G: 15 steps west)\nQ5: yes (A clear path exists through the free cells)\n\nQ1: W\nQ2: 2\nQ3: no\nQ4: 15\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep04",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "W",
+  "raw_output": "Q1: W  \nQ2: 2  \nQ3: no  \nQ4: 5  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep04",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "5",
+  "raw_output": "Q1: W  \nQ2: 2  \nQ3: no  \nQ4: 5  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep05",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep05",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep05",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep05",
+  "qid": "Q4",
+  "truth": "12",
+  "parsed": "9",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep05",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep06",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see the agent 'A' at row 10, column 4\n2. The goal 'G' is at row 3, column 12\n3. From the agent's position, I can determine:\n   - The goal is to the northeast\n   - The adjacent cells are all free except the one to the west\n   - The Manhattan distance is 11 steps (8 east + 3 north)\n\nQ1: NE\nQ2: 1\nQ3: yes\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep06",
+  "qid": "Q4",
+  "truth": "17",
+  "parsed": "11",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see the agent 'A' at row 10, column 4\n2. The goal 'G' is at row 3, column 12\n3. From the agent's position, I can determine:\n   - The goal is to the northeast\n   - The adjacent cells are all free except the one to the west\n   - The Manhattan distance is 11 steps (8 east + 3 north)\n\nQ1: NE\nQ2: 1\nQ3: yes\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep07",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "SE",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep07",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep07",
+  "qid": "Q4",
+  "truth": "20",
+  "parsed": "9",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep07",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep08",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at position (2,7) and 'G' at position (4,10)\n2. Counting walls around 'A':\n   - North: wall\n   - South: free\n   - East: free\n   - West: free\n3. Looking at cell west of 'A': it's free (.)\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 5\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep08",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at position (2,7) and 'G' at position (4,10)\n2. Counting walls around 'A':\n   - North: wall\n   - South: free\n   - East: free\n   - West: free\n3. Looking at cell west of 'A': it's free (.)\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 5\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep08",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "5",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at position (2,7) and 'G' at position (4,10)\n2. Counting walls around 'A':\n   - North: wall\n   - South: free\n   - East: free\n   - West: free\n3. Looking at cell west of 'A': it's free (.)\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 5\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep09",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "SW",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,11) counting from top-left as (0,0)\n- The goal (G) is at position (5,7)\n- The agent is to the east and south of the goal\n\n2. Counting walls around the agent:\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo 2 walls are adjacent to the agent.\n\n3. The Manhattan distance is calculated as:\n- Vertical distance: 2 (7-5)\n- Horizontal distance: 4 (11-7)\nTotal: 6 steps\n\nHere are the answers:\n\nQ1: SW\nQ2: 2\nQ3: no\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep09",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,11) counting from top-left as (0,0)\n- The goal (G) is at position (5,7)\n- The agent is to the east and south of the goal\n\n2. Counting walls around the agent:\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo 2 walls are adjacent to the agent.\n\n3. The Manhattan distance is calculated as:\n- Vertical distance: 2 (7-5)\n- Horizontal distance: 4 (11-7)\nTotal: 6 steps\n\nHere are the answers:\n\nQ1: SW\nQ2: 2\nQ3: no\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep10",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep10",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep10",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "7",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep11",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, there is 1 wall adjacent to the agent.\n\nQ3: The cell immediately west of the agent is a wall (#), so the answer is yes.\n\nQ4: Looking at the map, the Manhattan distance is 10 steps east and 2 steps south, totaling 12 steps.\n\nQ5: Yes, there is a clear path from A to G through free cells (the path goes east and then south).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep11",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, there is 1 wall adjacent to the agent.\n\nQ3: The cell immediately west of the agent is a wall (#), so the answer is yes.\n\nQ4: Looking at the map, the Manhattan distance is 10 steps east and 2 steps south, totaling 12 steps.\n\nQ5: Yes, there is a clear path from A to G through free cells (the path goes east and then south).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep11",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, there is 1 wall adjacent to the agent.\n\nQ3: The cell immediately west of the agent is a wall (#), so the answer is yes.\n\nQ4: Looking at the map, the Manhattan distance is 10 steps east and 2 steps south, totaling 12 steps.\n\nQ5: Yes, there is a clear path from A to G through free cells (the path goes east and then south).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep11",
+  "qid": "Q4",
+  "truth": "17",
+  "parsed": "10",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, there is 1 wall adjacent to the agent.\n\nQ3: The cell immediately west of the agent is a wall (#), so the answer is yes.\n\nQ4: Looking at the map, the Manhattan distance is 10 steps east and 2 steps south, totaling 12 steps.\n\nQ5: Yes, there is a clear path from A to G through free cells (the path goes east and then south).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep11",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, there is 1 wall adjacent to the agent.\n\nQ3: The cell immediately west of the agent is a wall (#), so the answer is yes.\n\nQ4: Looking at the map, the Manhattan distance is 10 steps east and 2 steps south, totaling 12 steps.\n\nQ5: Yes, there is a clear path from A to G through free cells (the path goes east and then south).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep12",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see the agent (A) at position (6,5) and the goal (G) at (9,3).\n2. From the agent's position, I can determine:\n   - North is free\n   - South is a wall\n   - East is free\n   - West is a wall\n\nQ1: E (The goal is directly east of the agent)\nQ2: 2 (The south and west cells adjacent to the agent are walls)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 5 (The Manhattan distance is calculated as: |6-9| + |5-3| = 3 + 2 = 5)\nQ5: yes (A path exists: the agent can move east, then north twice, then east twice to reach the goal)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep12",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see the agent (A) at position (6,5) and the goal (G) at (9,3).\n2. From the agent's position, I can determine:\n   - North is free\n   - South is a wall\n   - East is free\n   - West is a wall\n\nQ1: E (The goal is directly east of the agent)\nQ2: 2 (The south and west cells adjacent to the agent are walls)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 5 (The Manhattan distance is calculated as: |6-9| + |5-3| = 3 + 2 = 5)\nQ5: yes (A path exists: the agent can move east, then north twice, then east twice to reach the goal)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep12",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "5",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see the agent (A) at position (6,5) and the goal (G) at (9,3).\n2. From the agent's position, I can determine:\n   - North is free\n   - South is a wall\n   - East is free\n   - West is a wall\n\nQ1: E (The goal is directly east of the agent)\nQ2: 2 (The south and west cells adjacent to the agent are walls)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 5 (The Manhattan distance is calculated as: |6-9| + |5-3| = 3 + 2 = 5)\nQ5: yes (A path exists: the agent can move east, then north twice, then east twice to reach the goal)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep13",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "NW",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can find 'A' (agent) and 'G' (goal) and their relative positions.\n2. Counting walls around 'A':\n   - North: wall\n   - South: free\n   - East: wall\n   - West: free\n3. Checking cell west of 'A': it's free ('.')\n4. Calculating Manhattan distance between 'A' and 'G':\n   - 'A' is at (7,9)\n   - 'G' is at (9,2)\n   - Distance = |7-9| + |9-2| = 2 + 7 = 9\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep13",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can find 'A' (agent) and 'G' (goal) and their relative positions.\n2. Counting walls around 'A':\n   - North: wall\n   - South: free\n   - East: wall\n   - West: free\n3. Checking cell west of 'A': it's free ('.')\n4. Calculating Manhattan distance between 'A' and 'G':\n   - 'A' is at (7,9)\n   - 'G' is at (9,2)\n   - Distance = |7-9| + |9-2| = 2 + 7 = 9\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep13",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "9",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can find 'A' (agent) and 'G' (goal) and their relative positions.\n2. Counting walls around 'A':\n   - North: wall\n   - South: free\n   - East: wall\n   - West: free\n3. Checking cell west of 'A': it's free ('.')\n4. Calculating Manhattan distance between 'A' and 'G':\n   - 'A' is at (7,9)\n   - 'G' is at (9,2)\n   - Distance = |7-9| + |9-2| = 2 + 7 = 9\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep13",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can find 'A' (agent) and 'G' (goal) and their relative positions.\n2. Counting walls around 'A':\n   - North: wall\n   - South: free\n   - East: wall\n   - West: free\n3. Checking cell west of 'A': it's free ('.')\n4. Calculating Manhattan distance between 'A' and 'G':\n   - 'A' is at (7,9)\n   - 'G' is at (9,2)\n   - Distance = |7-9| + |9-2| = 2 + 7 = 9\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep14",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "SE",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the southeast of the agent (A). So the answer is SE.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls (#), so the answer is 0.\n\nQ3: The cell immediately west of A is a free space (.), not a wall (#). So the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 2, column 6\n- The goal is at row 8, column 5\n- Vertical distance: |2-8| = 6\n- Horizontal distance: |6-5| = 1\n- Total Manhattan distance = 6 + 1 = 7\n\nQ5: Yes, there is a clear path from A to G through free cells (.) without crossing any walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep14",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the southeast of the agent (A). So the answer is SE.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls (#), so the answer is 0.\n\nQ3: The cell immediately west of A is a free space (.), not a wall (#). So the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 2, column 6\n- The goal is at row 8, column 5\n- Vertical distance: |2-8| = 6\n- Horizontal distance: |6-5| = 1\n- Total Manhattan distance = 6 + 1 = 7\n\nQ5: Yes, there is a clear path from A to G through free cells (.) without crossing any walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep14",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the southeast of the agent (A). So the answer is SE.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls (#), so the answer is 0.\n\nQ3: The cell immediately west of A is a free space (.), not a wall (#). So the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 2, column 6\n- The goal is at row 8, column 5\n- Vertical distance: |2-8| = 6\n- Horizontal distance: |6-5| = 1\n- Total Manhattan distance = 6 + 1 = 7\n\nQ5: Yes, there is a clear path from A to G through free cells (.) without crossing any walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep15",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, G is southeast of A, so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls, so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free cell (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- A is at row 14, column 14\n- G is at row 6, column 20\n- Vertical distance: 14 - 6 = 8\n- Horizontal distance: 20 - 14 = 6\n- Total Manhattan distance: 8 + 6 = 14\n\nQ5: Yes, there is a clear path from A to G through free cells (.), avoiding all walls (#).\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep15",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, G is southeast of A, so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls, so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free cell (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- A is at row 14, column 14\n- G is at row 6, column 20\n- Vertical distance: 14 - 6 = 8\n- Horizontal distance: 20 - 14 = 6\n- Total Manhattan distance: 8 + 6 = 14\n\nQ5: Yes, there is a clear path from A to G through free cells (.), avoiding all walls (#).\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep15",
+  "qid": "Q4",
+  "truth": "18",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, G is southeast of A, so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls, so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free cell (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- A is at row 14, column 14\n- G is at row 6, column 20\n- Vertical distance: 14 - 6 = 8\n- Horizontal distance: 20 - 14 = 6\n- Total Manhattan distance: 8 + 6 = 14\n\nQ5: Yes, there is a clear path from A to G through free cells (.), avoiding all walls (#).\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep15",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, G is southeast of A, so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls, so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free cell (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- A is at row 14, column 14\n- G is at row 6, column 20\n- Vertical distance: 14 - 6 = 8\n- Horizontal distance: 20 - 14 = 6\n- Total Manhattan distance: 8 + 6 = 14\n\nQ5: Yes, there is a clear path from A to G through free cells (.), avoiding all walls (#).\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep16",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- A is at row 7, column 7\n- G is at row 3, column 6\n- From A's position, I need to determine the relative position of G\n\n2. Counting adjacent walls around A:\n- North: wall\n- South: free\n- East: free\n- West: free\n- So 1 wall is adjacent\n\n3. The cell west of A is free ('.')\n\n4. For Manhattan distance:\n- Need to go 4 steps north (7-3)\n- Need to go 1 step west (7-6)\n- Total distance = 4 + 1 = 5\n\n5. Looking at the path:\n- A clear path exists through free cells\n- Can go: west, north, north, north, west to reach G\n\nHere are the answers:\n\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 5\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep17",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "NW",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,6)\n- The goal (G) is at position (4,3)\n- The goal is to the northwest of the agent\n\n2. Looking at the cells adjacent to the agent:\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo 2 of the 4 adjacent cells are walls\n\n3. The cell immediately west of the agent is free (.)\n\n4. Counting the Manhattan distance:\n- 3 steps north (from 7 to 4)\n- 3 steps west (from 6 to 3)\n- Total: 6 steps\n\n5. There is a clear path from A to G through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep17",
+  "qid": "Q2",
+  "truth": "1",
+  "parsed": "2",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,6)\n- The goal (G) is at position (4,3)\n- The goal is to the northwest of the agent\n\n2. Looking at the cells adjacent to the agent:\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo 2 of the 4 adjacent cells are walls\n\n3. The cell immediately west of the agent is free (.)\n\n4. Counting the Manhattan distance:\n- 3 steps north (from 7 to 4)\n- 3 steps west (from 6 to 3)\n- Total: 6 steps\n\n5. There is a clear path from A to G through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep17",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "6",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,6)\n- The goal (G) is at position (4,3)\n- The goal is to the northwest of the agent\n\n2. Looking at the cells adjacent to the agent:\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo 2 of the 4 adjacent cells are walls\n\n3. The cell immediately west of the agent is free (.)\n\n4. Counting the Manhattan distance:\n- 3 steps north (from 7 to 4)\n- 3 steps west (from 6 to 3)\n- Total: 6 steps\n\n5. There is a clear path from A to G through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep17",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,6)\n- The goal (G) is at position (4,3)\n- The goal is to the northwest of the agent\n\n2. Looking at the cells adjacent to the agent:\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo 2 of the 4 adjacent cells are walls\n\n3. The cell immediately west of the agent is free (.)\n\n4. Counting the Manhattan distance:\n- 3 steps north (from 7 to 4)\n- 3 steps west (from 6 to 3)\n- Total: 6 steps\n\n5. There is a clear path from A to G through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep18",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of the adjacent cells are walls.\n\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 8, column 13\n- The goal is at row 12, column 3\n- Vertical distance: 4 steps (12-8)\n- Horizontal distance: 10 steps (13-3)\n- Total Manhattan distance: 4 + 10 = 14\n\nQ5: Yes, a path exists from A to G. I can trace a path through the free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep18",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of the adjacent cells are walls.\n\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 8, column 13\n- The goal is at row 12, column 3\n- Vertical distance: 4 steps (12-8)\n- Horizontal distance: 10 steps (13-3)\n- Total Manhattan distance: 4 + 10 = 14\n\nQ5: Yes, a path exists from A to G. I can trace a path through the free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep18",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of the adjacent cells are walls.\n\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 8, column 13\n- The goal is at row 12, column 3\n- Vertical distance: 4 steps (12-8)\n- Horizontal distance: 10 steps (13-3)\n- Total Manhattan distance: 4 + 10 = 14\n\nQ5: Yes, a path exists from A to G. I can trace a path through the free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep18",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of the adjacent cells are walls.\n\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 8, column 13\n- The goal is at row 12, column 3\n- Vertical distance: 4 steps (12-8)\n- Horizontal distance: 10 steps (13-3)\n- Total Manhattan distance: 4 + 10 = 14\n\nQ5: Yes, a path exists from A to G. I can trace a path through the free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep19",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep19",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep19",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "9",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep19",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep20",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can locate 'A' (agent) and 'G' (goal) and their relative positions.\n\n2. From the agent's position:\n- North is free\n- South is free\n- East is a wall\n- West is free\n\n3. The goal is south and west of the agent.\n\nHere's the answer in the requested format:\n\nQ1: SW\nQ2: 1\nQ3: no\nQ4: 5\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep20",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can locate 'A' (agent) and 'G' (goal) and their relative positions.\n\n2. From the agent's position:\n- North is free\n- South is free\n- East is a wall\n- West is free\n\n3. The goal is south and west of the agent.\n\nHere's the answer in the requested format:\n\nQ1: SW\nQ2: 1\nQ3: no\nQ4: 5\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep20",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "5",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can locate 'A' (agent) and 'G' (goal) and their relative positions.\n\n2. From the agent's position:\n- North is free\n- South is free\n- East is a wall\n- West is free\n\n3. The goal is south and west of the agent.\n\nHere's the answer in the requested format:\n\nQ1: SW\nQ2: 1\nQ3: no\nQ4: 5\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep21",
+  "qid": "Q4",
+  "truth": "15",
+  "parsed": "14",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at row 7, column 2\n- The goal (G) is at row 2, column 11\n- From A, to reach G, I need to go north and east\n\nQ1: NE\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes\n\nExplanation:\nQ1: The goal is northeast of the agent\nQ2: The cells north and west of A are walls, so 2 walls are adjacent\nQ3: The cell immediately west of A is a wall, so yes\nQ4: Counting the Manhattan distance: 5 steps north + 9 steps east = 14 steps\nQ5: A path exists because there are no enclosed areas trapping the agent"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep21",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at row 7, column 2\n- The goal (G) is at row 2, column 11\n- From A, to reach G, I need to go north and east\n\nQ1: NE\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes\n\nExplanation:\nQ1: The goal is northeast of the agent\nQ2: The cells north and west of A are walls, so 2 walls are adjacent\nQ3: The cell immediately west of A is a wall, so yes\nQ4: Counting the Manhattan distance: 5 steps north + 9 steps east = 14 steps\nQ5: A path exists because there are no enclosed areas trapping the agent"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep22",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep22",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "1",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep22",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": "7",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep23",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep23",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep23",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "7",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep23",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: E  \nQ2: 1  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep24",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the map. G is to the southeast of A.\nA: SE\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls (#), so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free space (.), not a wall (#).\nA: no\n\nQ4: Counting the Manhattan distance:\n- From A (3,1) to G (8,5)\n- Horizontal distance: 8 - 3 = 5\n- Vertical distance: 5 - 1 = 4\n- Total distance: 5 + 4 = 9\n\nQ5: Looking at the map, there are clear paths through free cells (.) from A to G, avoiding all walls (#).\nA: yes\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep24",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the map. G is to the southeast of A.\nA: SE\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls (#), so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free space (.), not a wall (#).\nA: no\n\nQ4: Counting the Manhattan distance:\n- From A (3,1) to G (8,5)\n- Horizontal distance: 8 - 3 = 5\n- Vertical distance: 5 - 1 = 4\n- Total distance: 5 + 4 = 9\n\nQ5: Looking at the map, there are clear paths through free cells (.) from A to G, avoiding all walls (#).\nA: yes\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep24",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the map. G is to the southeast of A.\nA: SE\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls (#), so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free space (.), not a wall (#).\nA: no\n\nQ4: Counting the Manhattan distance:\n- From A (3,1) to G (8,5)\n- Horizontal distance: 8 - 3 = 5\n- Vertical distance: 5 - 1 = 4\n- Total distance: 5 + 4 = 9\n\nQ5: Looking at the map, there are clear paths through free cells (.) from A to G, avoiding all walls (#).\nA: yes\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep24",
+  "qid": "Q5",
+  "truth": "yes",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the map. G is to the southeast of A.\nA: SE\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: .\n- South: .\n- East: .\n- West: .\nNone of them are walls (#), so the answer is 0.\n\nQ3: The cell immediately west (left) of A is a free space (.), not a wall (#).\nA: no\n\nQ4: Counting the Manhattan distance:\n- From A (3,1) to G (8,5)\n- Horizontal distance: 8 - 3 = 5\n- Vertical distance: 5 - 1 = 4\n- Total distance: 5 + 4 = 9\n\nQ5: Looking at the map, there are clear paths through free cells (.) from A to G, avoiding all walls (#).\nA: yes\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep25",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "NW",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at position (9,9) and 'G' (goal) at position (5,5)\n2. Counting walls around 'A': north is wall, south is free, east is free, west is free\n3. Cell west of 'A' is free ('.')\n4. Counting steps: need to go 4 north and 4 west to reach goal = 8 steps\n5. Yes, path exists through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep25",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at position (9,9) and 'G' (goal) at position (5,5)\n2. Counting walls around 'A': north is wall, south is free, east is free, west is free\n3. Cell west of 'A' is free ('.')\n4. Counting steps: need to go 4 north and 4 west to reach goal = 8 steps\n5. Yes, path exists through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep25",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at position (9,9) and 'G' (goal) at position (5,5)\n2. Counting walls around 'A': north is wall, south is free, east is free, west is free\n3. Cell west of 'A' is free ('.')\n4. Counting steps: need to go 4 north and 4 west to reach goal = 8 steps\n5. Yes, path exists through free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep26",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of these cells are walls.\n\nQ3: The cell immediately west of A is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 10, column 3\n- The goal is at row 12, column 13\n- Row difference: |10-12| = 2\n- Column difference: |3-13| = 10\n- Total Manhattan distance: 2 + 10 = 12\n\nQ5: Yes, a path exists from A to G. I can trace a path south and then east through free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep26",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of these cells are walls.\n\nQ3: The cell immediately west of A is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 10, column 3\n- The goal is at row 12, column 13\n- Row difference: |10-12| = 2\n- Column difference: |3-13| = 10\n- Total Manhattan distance: 2 + 10 = 12\n\nQ5: Yes, a path exists from A to G. I can trace a path south and then east through free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep26",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of these cells are walls.\n\nQ3: The cell immediately west of A is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 10, column 3\n- The goal is at row 12, column 13\n- Row difference: |10-12| = 2\n- Column difference: |3-13| = 10\n- Total Manhattan distance: 2 + 10 = 12\n\nQ5: Yes, a path exists from A to G. I can trace a path south and then east through free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep26",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 0 of these cells are walls.\n\nQ3: The cell immediately west of A is free (.), not a wall.\n\nQ4: The Manhattan distance can be counted by looking at the grid:\n- The agent is at row 10, column 3\n- The goal is at row 12, column 13\n- Row difference: |10-12| = 2\n- Column difference: |3-13| = 10\n- Total Manhattan distance: 2 + 10 = 12\n\nQ5: Yes, a path exists from A to G. I can trace a path south and then east through free cells.\n\nHere are the answers in the requested format:\n\nQ1: S\nQ2: 0\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep27",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "SE",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,12) counting from 0 starting from top-left\n- The goal (G) is at position (4,7)\n- The agent is south and east of the goal\n\nQ1: SE\nQ2: 1 (the cell to the south is a wall)\nQ3: no (the cell to the west is free - it's part of the path leading to A)\nQ4: 9 (counting the minimum number of steps to reach G from A)\nQ5: yes (there is a clear path from A to G through the free cells)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep27",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,12) counting from 0 starting from top-left\n- The goal (G) is at position (4,7)\n- The agent is south and east of the goal\n\nQ1: SE\nQ2: 1 (the cell to the south is a wall)\nQ3: no (the cell to the west is free - it's part of the path leading to A)\nQ4: 9 (counting the minimum number of steps to reach G from A)\nQ5: yes (there is a clear path from A to G through the free cells)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep27",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (7,12) counting from 0 starting from top-left\n- The goal (G) is at position (4,7)\n- The agent is south and east of the goal\n\nQ1: SE\nQ2: 1 (the cell to the south is a wall)\nQ3: no (the cell to the west is free - it's part of the path leading to A)\nQ4: 9 (counting the minimum number of steps to reach G from A)\nQ5: yes (there is a clear path from A to G through the free cells)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep28",
+  "qid": "Q1",
+  "truth": "N",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: No  \nQ4: 5  \nQ5: Yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep28",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "5",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: No  \nQ4: 5  \nQ5: Yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep29",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "SE",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is to the southeast (SE) of the agent (A).\nQ2: Looking at the 4 adjacent cells around A:\n   - North: free (.)\n   - South: free (.)\n   - East: free (.)\n   - West: free (.)\n   Therefore, 0 walls are adjacent to the agent.\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\nQ4: The Manhattan distance can be calculated by counting cells:\n   - East/West: 5 steps\n   - North/South: 3 steps\n   Total Manhattan distance = 8 steps\nQ5: Yes, a path exists from A to G. The map shows a clear path through free cells (.) that avoids all walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep29",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is to the southeast (SE) of the agent (A).\nQ2: Looking at the 4 adjacent cells around A:\n   - North: free (.)\n   - South: free (.)\n   - East: free (.)\n   - West: free (.)\n   Therefore, 0 walls are adjacent to the agent.\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\nQ4: The Manhattan distance can be calculated by counting cells:\n   - East/West: 5 steps\n   - North/South: 3 steps\n   Total Manhattan distance = 8 steps\nQ5: Yes, a path exists from A to G. The map shows a clear path through free cells (.) that avoids all walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep29",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is to the southeast (SE) of the agent (A).\nQ2: Looking at the 4 adjacent cells around A:\n   - North: free (.)\n   - South: free (.)\n   - East: free (.)\n   - West: free (.)\n   Therefore, 0 walls are adjacent to the agent.\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\nQ4: The Manhattan distance can be calculated by counting cells:\n   - East/West: 5 steps\n   - North/South: 3 steps\n   Total Manhattan distance = 8 steps\nQ5: Yes, a path exists from A to G. The map shows a clear path through free cells (.) that avoids all walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep29",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is to the southeast (SE) of the agent (A).\nQ2: Looking at the 4 adjacent cells around A:\n   - North: free (.)\n   - South: free (.)\n   - East: free (.)\n   - West: free (.)\n   Therefore, 0 walls are adjacent to the agent.\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\nQ4: The Manhattan distance can be calculated by counting cells:\n   - East/West: 5 steps\n   - North/South: 3 steps\n   Total Manhattan distance = 8 steps\nQ5: Yes, a path exists from A to G. The map shows a clear path through free cells (.) that avoids all walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep29",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is to the southeast (SE) of the agent (A).\nQ2: Looking at the 4 adjacent cells around A:\n   - North: free (.)\n   - South: free (.)\n   - East: free (.)\n   - West: free (.)\n   Therefore, 0 walls are adjacent to the agent.\nQ3: The cell immediately west (left) of the agent is free (.), not a wall.\nQ4: The Manhattan distance can be calculated by counting cells:\n   - East/West: 5 steps\n   - North/South: 3 steps\n   Total Manhattan distance = 8 steps\nQ5: Yes, a path exists from A to G. The map shows a clear path through free cells (.) that avoids all walls (#).\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 0\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep30",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me solve this step by step:\n\n1. First, let me locate A (agent) and G (goal) on the map:\n   - A is at row 3, column 11\n   - G is at row 9, column 4\n\n2. Now I can answer each question:\n\nQ1: SW (The goal is south-west from the agent's position)\nQ2: 1 (The cell to the north of A is a wall, all others are free)\nQ3: yes (The cell immediately west of A is a wall)\nQ4: 13 (To calculate: 7 steps west + 6 steps south = 13)\nQ5: yes (A clear path exists through the free cells)\n\nTherefore, the answers are:\n\nQ1: SW\nQ2: 1\nQ3: yes\nQ4: 13\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep31",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo there are 0 walls adjacent to the agent.\n\nQ3: The cell immediately west (left) of the agent is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 4, column 8\n- The goal is at row 15, column 13\n- Vertical distance: 15 - 4 = 11\n- Horizontal distance: 13 - 8 = 5\n- Total Manhattan distance: 11 + 5 = 16\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells (.). The path can go south and then east.\n\nHere are the answers in the requested format:\nQ1: S\nQ2: 0\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep31",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo there are 0 walls adjacent to the agent.\n\nQ3: The cell immediately west (left) of the agent is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 4, column 8\n- The goal is at row 15, column 13\n- Vertical distance: 15 - 4 = 11\n- Horizontal distance: 13 - 8 = 5\n- Total Manhattan distance: 11 + 5 = 16\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells (.). The path can go south and then east.\n\nHere are the answers in the requested format:\nQ1: S\nQ2: 0\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep31",
+  "qid": "Q4",
+  "truth": "19",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo there are 0 walls adjacent to the agent.\n\nQ3: The cell immediately west (left) of the agent is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 4, column 8\n- The goal is at row 15, column 13\n- Vertical distance: 15 - 4 = 11\n- Horizontal distance: 13 - 8 = 5\n- Total Manhattan distance: 11 + 5 = 16\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells (.). The path can go south and then east.\n\nHere are the answers in the requested format:\nQ1: S\nQ2: 0\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep31",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: free (.)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo there are 0 walls adjacent to the agent.\n\nQ3: The cell immediately west (left) of the agent is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 4, column 8\n- The goal is at row 15, column 13\n- Vertical distance: 15 - 4 = 11\n- Horizontal distance: 13 - 8 = 5\n- Total Manhattan distance: 11 + 5 = 16\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells (.). The path can go south and then east.\n\nHere are the answers in the requested format:\nQ1: S\nQ2: 0\nQ3: no\nQ4: 16\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep32",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A).\nAnswer: E\n\nQ2: Looking at the cells directly adjacent to A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: wall (#)\nSo there are 2 walls adjacent to the agent.\nAnswer: 2\n\nQ3: The cell immediately west of the agent is a wall (#).\nAnswer: yes\n\nQ4: The Manhattan distance is the sum of the horizontal and vertical distances.\n- Horizontal distance: 3 steps east\n- Vertical distance: 0 steps\nTotal Manhattan distance is 3.\nAnswer: 3\n\nQ5: Yes, there is a clear path from A to G going east through free cells.\nAnswer: yes\n\nFinal answers:\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 3\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep32",
+  "qid": "Q2",
+  "truth": "1",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A).\nAnswer: E\n\nQ2: Looking at the cells directly adjacent to A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: wall (#)\nSo there are 2 walls adjacent to the agent.\nAnswer: 2\n\nQ3: The cell immediately west of the agent is a wall (#).\nAnswer: yes\n\nQ4: The Manhattan distance is the sum of the horizontal and vertical distances.\n- Horizontal distance: 3 steps east\n- Vertical distance: 0 steps\nTotal Manhattan distance is 3.\nAnswer: 3\n\nQ5: Yes, there is a clear path from A to G going east through free cells.\nAnswer: yes\n\nFinal answers:\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 3\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep32",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A).\nAnswer: E\n\nQ2: Looking at the cells directly adjacent to A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: wall (#)\nSo there are 2 walls adjacent to the agent.\nAnswer: 2\n\nQ3: The cell immediately west of the agent is a wall (#).\nAnswer: yes\n\nQ4: The Manhattan distance is the sum of the horizontal and vertical distances.\n- Horizontal distance: 3 steps east\n- Vertical distance: 0 steps\nTotal Manhattan distance is 3.\nAnswer: 3\n\nQ5: Yes, there is a clear path from A to G going east through free cells.\nAnswer: yes\n\nFinal answers:\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 3\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep32",
+  "qid": "Q4",
+  "truth": "5",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A).\nAnswer: E\n\nQ2: Looking at the cells directly adjacent to A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: wall (#)\nSo there are 2 walls adjacent to the agent.\nAnswer: 2\n\nQ3: The cell immediately west of the agent is a wall (#).\nAnswer: yes\n\nQ4: The Manhattan distance is the sum of the horizontal and vertical distances.\n- Horizontal distance: 3 steps east\n- Vertical distance: 0 steps\nTotal Manhattan distance is 3.\nAnswer: 3\n\nQ5: Yes, there is a clear path from A to G going east through free cells.\nAnswer: yes\n\nFinal answers:\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 3\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep33",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Free (.)\nSo none of the adjacent cells are walls:\nQ2: 0\n\nQ3: The cell immediately west of the agent is free (.), not a wall:\nQ3: no\n\nQ4: Counting the Manhattan distance:\n- The agent is at position (6,2)\n- The goal is at position (5,4)\n- Vertical distance: 2 steps (south)\n- Horizontal distance: 1 step (west)\n- Total distance: 3 steps\nQ4: 3\n\nQ5: Since there are no walls blocking the path between A and G, and the goal is reachable by moving south and then west:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep33",
+  "qid": "Q2",
+  "truth": "1",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Free (.)\nSo none of the adjacent cells are walls:\nQ2: 0\n\nQ3: The cell immediately west of the agent is free (.), not a wall:\nQ3: no\n\nQ4: Counting the Manhattan distance:\n- The agent is at position (6,2)\n- The goal is at position (5,4)\n- Vertical distance: 2 steps (south)\n- Horizontal distance: 1 step (west)\n- Total distance: 3 steps\nQ4: 3\n\nQ5: Since there are no walls blocking the path between A and G, and the goal is reachable by moving south and then west:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep33",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Free (.)\nSo none of the adjacent cells are walls:\nQ2: 0\n\nQ3: The cell immediately west of the agent is free (.), not a wall:\nQ3: no\n\nQ4: Counting the Manhattan distance:\n- The agent is at position (6,2)\n- The goal is at position (5,4)\n- Vertical distance: 2 steps (south)\n- Horizontal distance: 1 step (west)\n- Total distance: 3 steps\nQ4: 3\n\nQ5: Since there are no walls blocking the path between A and G, and the goal is reachable by moving south and then west:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep33",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Free (.)\nSo none of the adjacent cells are walls:\nQ2: 0\n\nQ3: The cell immediately west of the agent is free (.), not a wall:\nQ3: no\n\nQ4: Counting the Manhattan distance:\n- The agent is at position (6,2)\n- The goal is at position (5,4)\n- Vertical distance: 2 steps (south)\n- Horizontal distance: 1 step (west)\n- Total distance: 3 steps\nQ4: 3\n\nQ5: Since there are no walls blocking the path between A and G, and the goal is reachable by moving south and then west:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep34",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at row 2, column 13 and 'G' at row 12, column 8\n2. From 'A', I can count the cells to 'G':\n   - 10 steps south\n   - 5 steps west\n   - Total Manhattan distance is 15\n\nQ1: S\nQ2: 1\nQ3: yes\nQ4: 15\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep34",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at row 2, column 13 and 'G' at row 12, column 8\n2. From 'A', I can count the cells to 'G':\n   - 10 steps south\n   - 5 steps west\n   - Total Manhattan distance is 15\n\nQ1: S\nQ2: 1\nQ3: yes\nQ4: 15\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep34",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at row 2, column 13 and 'G' at row 12, column 8\n2. From 'A', I can count the cells to 'G':\n   - 10 steps south\n   - 5 steps west\n   - Total Manhattan distance is 15\n\nQ1: S\nQ2: 1\nQ3: yes\nQ4: 15\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep34",
+  "qid": "Q4",
+  "truth": "12",
+  "parsed": "15",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at row 2, column 13 and 'G' at row 12, column 8\n2. From 'A', I can count the cells to 'G':\n   - 10 steps south\n   - 5 steps west\n   - Total Manhattan distance is 15\n\nQ1: S\nQ2: 1\nQ3: yes\nQ4: 15\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep35",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal 'G' is south-east of the agent 'A'\nQ2: Counting the walls adjacent to 'A':\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo there are 2 walls adjacent to the agent\nQ3: The cell immediately west of 'A' is free (not a wall)\nQ4: Counting the Manhattan distance:\n- The agent is at row 5, column 14\n- The goal is at row 10, column 18\n- Row difference: |5-10| = 5\n- Column difference: |14-18| = 4\n- Total Manhattan distance: 5 + 4 = 9\nQ5: Yes, there is a clear path from 'A' to 'G' through free cells\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep35",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal 'G' is south-east of the agent 'A'\nQ2: Counting the walls adjacent to 'A':\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo there are 2 walls adjacent to the agent\nQ3: The cell immediately west of 'A' is free (not a wall)\nQ4: Counting the Manhattan distance:\n- The agent is at row 5, column 14\n- The goal is at row 10, column 18\n- Row difference: |5-10| = 5\n- Column difference: |14-18| = 4\n- Total Manhattan distance: 5 + 4 = 9\nQ5: Yes, there is a clear path from 'A' to 'G' through free cells\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep35",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal 'G' is south-east of the agent 'A'\nQ2: Counting the walls adjacent to 'A':\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo there are 2 walls adjacent to the agent\nQ3: The cell immediately west of 'A' is free (not a wall)\nQ4: Counting the Manhattan distance:\n- The agent is at row 5, column 14\n- The goal is at row 10, column 18\n- Row difference: |5-10| = 5\n- Column difference: |14-18| = 4\n- Total Manhattan distance: 5 + 4 = 9\nQ5: Yes, there is a clear path from 'A' to 'G' through free cells\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep35",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal 'G' is south-east of the agent 'A'\nQ2: Counting the walls adjacent to 'A':\n- North: wall\n- South: free\n- East: wall\n- West: free\nSo there are 2 walls adjacent to the agent\nQ3: The cell immediately west of 'A' is free (not a wall)\nQ4: Counting the Manhattan distance:\n- The agent is at row 5, column 14\n- The goal is at row 10, column 18\n- Row difference: |5-10| = 5\n- Column difference: |14-18| = 4\n- Total Manhattan distance: 5 + 4 = 9\nQ5: Yes, there is a clear path from 'A' to 'G' through free cells\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep36",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "E",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is to the east (E) of the agent (A)\nQ2: Looking at the 4 adjacent cells:\n- North: #\n- South: #\n- East: .\n- West: #\nSo, 2 cells are walls\nQ3: The cell immediately west of the agent is a wall (#), so yes\nQ4: The Manhattan distance is 7 steps:\n- Go east 3 steps to column 8\n- Go south 4 steps to row 6\nQ5: Yes, a path exists. The agent can move east, then navigate around the walls to reach the goal.\n\nTherefore, the answers are:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep36",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is to the east (E) of the agent (A)\nQ2: Looking at the 4 adjacent cells:\n- North: #\n- South: #\n- East: .\n- West: #\nSo, 2 cells are walls\nQ3: The cell immediately west of the agent is a wall (#), so yes\nQ4: The Manhattan distance is 7 steps:\n- Go east 3 steps to column 8\n- Go south 4 steps to row 6\nQ5: Yes, a path exists. The agent can move east, then navigate around the walls to reach the goal.\n\nTherefore, the answers are:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep37",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep37",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep37",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep37",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "12",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep37",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SE  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep38",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep38",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "2",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep38",
+  "qid": "Q4",
+  "truth": "14",
+  "parsed": "9",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: no  \nQ4: 9  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep39",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Let me solve this step by step:\n\n1. For Q1, looking at the map, G is directly east of A.\n2. For Q2, counting walls adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls.\n3. For Q3, the cell west of A is a wall (#).\n4. For Q4, counting Manhattan distance:\n   - A is at row 14, column 16\n   - G is at row 4, column 20\n   - Vertical distance: 10 steps\n   - Horizontal distance: 4 steps\n   Total: 14 steps\n5. For Q5, yes, there is a clear path from A to G through free cells.\n\nHere are the answers:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep39",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me solve this step by step:\n\n1. For Q1, looking at the map, G is directly east of A.\n2. For Q2, counting walls adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls.\n3. For Q3, the cell west of A is a wall (#).\n4. For Q4, counting Manhattan distance:\n   - A is at row 14, column 16\n   - G is at row 4, column 20\n   - Vertical distance: 10 steps\n   - Horizontal distance: 4 steps\n   Total: 14 steps\n5. For Q5, yes, there is a clear path from A to G through free cells.\n\nHere are the answers:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep39",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me solve this step by step:\n\n1. For Q1, looking at the map, G is directly east of A.\n2. For Q2, counting walls adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls.\n3. For Q3, the cell west of A is a wall (#).\n4. For Q4, counting Manhattan distance:\n   - A is at row 14, column 16\n   - G is at row 4, column 20\n   - Vertical distance: 10 steps\n   - Horizontal distance: 4 steps\n   Total: 14 steps\n5. For Q5, yes, there is a clear path from A to G through free cells.\n\nHere are the answers:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 14\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep40",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "E",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at row 5, column 4\n- The goal (G) is at row 6, column 10\n- The agent is surrounded by walls and free space\n\nQ1: E (The goal is directly east of the agent)\nQ2: 2 (The north and south cells adjacent to the agent are walls)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 7 (The Manhattan distance is calculated as: 1 row difference + 6 column difference = 7)\nQ5: yes (A clear path exists east and then south to reach the goal)\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep41",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the 4 adjacent cells:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of the agent is free (.), not a wall.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 6, column 11\n- The goal is at row 10, column 7\n- Vertical distance: 4 steps (down)\n- Horizontal distance: 4 steps (left)\n- Total Manhattan distance: 8 steps\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells.\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep41",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the 4 adjacent cells:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of the agent is free (.), not a wall.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 6, column 11\n- The goal is at row 10, column 7\n- Vertical distance: 4 steps (down)\n- Horizontal distance: 4 steps (left)\n- Total Manhattan distance: 8 steps\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells.\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep41",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the 4 adjacent cells:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of the agent is free (.), not a wall.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 6, column 11\n- The goal is at row 10, column 7\n- Vertical distance: 4 steps (down)\n- Horizontal distance: 4 steps (left)\n- Total Manhattan distance: 8 steps\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells.\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep41",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the 4 adjacent cells:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of the agent is free (.), not a wall.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 6, column 11\n- The goal is at row 10, column 7\n- Vertical distance: 4 steps (down)\n- Horizontal distance: 4 steps (left)\n- Total Manhattan distance: 8 steps\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells.\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep41",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is south and east of the agent (A), so the direction is SE.\n\nQ2: Looking at the 4 adjacent cells:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of the agent is free (.), not a wall.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 6, column 11\n- The goal is at row 10, column 7\n- Vertical distance: 4 steps (down)\n- Horizontal distance: 4 steps (left)\n- Total Manhattan distance: 8 steps\n\nQ5: Yes, there is a clear path from the agent to the goal through free cells.\n\nHere are the answers in the requested format:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep42",
+  "qid": "Q1",
+  "truth": "S",
+  "parsed": "SE",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' at (2,12) and 'G' at (12,9)\n2. From 'A', I need to check:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n3. The goal is to the southeast of the agent\n\nQ1: SE\nQ2: 2\nQ3: yes\nQ4: 10\nQ5: yes\n\nExplanation:\n- Q1: The goal is to the southeast of the agent\n- Q2: The north and west cells are walls, so 2 walls are adjacent\n- Q3: The cell immediately west of 'A' is a wall ('#')\n- Q4: The Manhattan distance is 10 (10 steps south + 0 steps east)\n- Q5: A clear path exists through the free cells to reach the goal"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep43",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of A is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 14, column 16\n- The goal is at row 5, column 7\n- Vertical distance: 14 - 5 = 9 steps\n- Horizontal distance: 16 - 7 = 9 steps\n- Total Manhattan distance: 9 + 9 = 18 steps\n\nQ5: Yes, a path exists from A to G. I can verify this by visual inspection of the map, as there are no walls blocking a potential path.\n\nHere are the answers in the requested format:\n\nQ1: S  \nQ2: 1  \nQ3: no  \nQ4: 18  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep43",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of A is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 14, column 16\n- The goal is at row 5, column 7\n- Vertical distance: 14 - 5 = 9 steps\n- Horizontal distance: 16 - 7 = 9 steps\n- Total Manhattan distance: 9 + 9 = 18 steps\n\nQ5: Yes, a path exists from A to G. I can verify this by visual inspection of the map, as there are no walls blocking a potential path.\n\nHere are the answers in the requested format:\n\nQ1: S  \nQ2: 1  \nQ3: no  \nQ4: 18  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep43",
+  "qid": "Q4",
+  "truth": "19",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of A is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 14, column 16\n- The goal is at row 5, column 7\n- Vertical distance: 14 - 5 = 9 steps\n- Horizontal distance: 16 - 7 = 9 steps\n- Total Manhattan distance: 9 + 9 = 18 steps\n\nQ5: Yes, a path exists from A to G. I can verify this by visual inspection of the map, as there are no walls blocking a potential path.\n\nHere are the answers in the requested format:\n\nQ1: S  \nQ2: 1  \nQ3: no  \nQ4: 18  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep43",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so the answer is S.\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: wall (#)\n- South: free (.)\n- East: free (.)\n- West: free (.)\nSo, 1 of the 4 adjacent cells is a wall.\n\nQ3: The cell immediately west of A is free (.), so the answer is no.\n\nQ4: Counting the Manhattan distance:\n- The agent is at row 14, column 16\n- The goal is at row 5, column 7\n- Vertical distance: 14 - 5 = 9 steps\n- Horizontal distance: 16 - 7 = 9 steps\n- Total Manhattan distance: 9 + 9 = 18 steps\n\nQ5: Yes, a path exists from A to G. I can verify this by visual inspection of the map, as there are no walls blocking a potential path.\n\nHere are the answers in the requested format:\n\nQ1: S  \nQ2: 1  \nQ3: no  \nQ4: 18  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep44",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Let me solve this step by step:\n\n1. First, let me locate A (agent) and G (goal) on the map:\n   - A is at row 8, column 6\n   - G is at row 3, column 10\n\n2. Now I can answer each question:\n\nQ1: SE (The goal is south-east of the agent)\nQ2: 1 (The cell to the west of the agent is a wall, all others are free)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 7 (The shortest path is 7 steps: 4 steps east, 3 steps north)\nQ5: yes (A path exists - the agent can move east and then navigate around walls to reach the goal)\n\nTherefore, the answers are:\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep44",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me solve this step by step:\n\n1. First, let me locate A (agent) and G (goal) on the map:\n   - A is at row 8, column 6\n   - G is at row 3, column 10\n\n2. Now I can answer each question:\n\nQ1: SE (The goal is south-east of the agent)\nQ2: 1 (The cell to the west of the agent is a wall, all others are free)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 7 (The shortest path is 7 steps: 4 steps east, 3 steps north)\nQ5: yes (A path exists - the agent can move east and then navigate around walls to reach the goal)\n\nTherefore, the answers are:\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep44",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me solve this step by step:\n\n1. First, let me locate A (agent) and G (goal) on the map:\n   - A is at row 8, column 6\n   - G is at row 3, column 10\n\n2. Now I can answer each question:\n\nQ1: SE (The goal is south-east of the agent)\nQ2: 1 (The cell to the west of the agent is a wall, all others are free)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 7 (The shortest path is 7 steps: 4 steps east, 3 steps north)\nQ5: yes (A path exists - the agent can move east and then navigate around walls to reach the goal)\n\nTherefore, the answers are:\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep44",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "7",
+  "raw_output": "Let me solve this step by step:\n\n1. First, let me locate A (agent) and G (goal) on the map:\n   - A is at row 8, column 6\n   - G is at row 3, column 10\n\n2. Now I can answer each question:\n\nQ1: SE (The goal is south-east of the agent)\nQ2: 1 (The cell to the west of the agent is a wall, all others are free)\nQ3: yes (The cell immediately west of the agent is a wall)\nQ4: 7 (The shortest path is 7 steps: 4 steps east, 3 steps north)\nQ5: yes (A path exists - the agent can move east and then navigate around walls to reach the goal)\n\nTherefore, the answers are:\nQ1: SE\nQ2: 1\nQ3: yes\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep45",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "S",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, 1 adjacent cell is a wall:\nQ2: 1\n\nQ3: The cell immediately west of A is a wall (#):\nQ3: yes\n\nQ4: Counting the Manhattan distance:\n- A is at row 9, column 11\n- G is at row 7, column 2\n- Vertical distance: |9-7| = 2\n- Horizontal distance: |11-2| = 9\n- Total Manhattan distance: 2 + 9 = 11\nQ4: 11\n\nQ5: Yes, a path exists from A to G. The agent can move south and then west through the free cells:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep45",
+  "qid": "Q2",
+  "truth": "1",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, 1 adjacent cell is a wall:\nQ2: 1\n\nQ3: The cell immediately west of A is a wall (#):\nQ3: yes\n\nQ4: Counting the Manhattan distance:\n- A is at row 9, column 11\n- G is at row 7, column 2\n- Vertical distance: |9-7| = 2\n- Horizontal distance: |11-2| = 9\n- Total Manhattan distance: 2 + 9 = 11\nQ4: 11\n\nQ5: Yes, a path exists from A to G. The agent can move south and then west through the free cells:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep45",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, 1 adjacent cell is a wall:\nQ2: 1\n\nQ3: The cell immediately west of A is a wall (#):\nQ3: yes\n\nQ4: Counting the Manhattan distance:\n- A is at row 9, column 11\n- G is at row 7, column 2\n- Vertical distance: |9-7| = 2\n- Horizontal distance: |11-2| = 9\n- Total Manhattan distance: 2 + 9 = 11\nQ4: 11\n\nQ5: Yes, a path exists from A to G. The agent can move south and then west through the free cells:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep45",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, 1 adjacent cell is a wall:\nQ2: 1\n\nQ3: The cell immediately west of A is a wall (#):\nQ3: yes\n\nQ4: Counting the Manhattan distance:\n- A is at row 9, column 11\n- G is at row 7, column 2\n- Vertical distance: |9-7| = 2\n- Horizontal distance: |11-2| = 9\n- Total Manhattan distance: 2 + 9 = 11\nQ4: 11\n\nQ5: Yes, a path exists from A to G. The agent can move south and then west through the free cells:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep45",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is directly south of the agent (A), so:\nQ1: S\n\nQ2: Looking at the cells adjacent to A:\n- North: Free (.)\n- South: Free (.)\n- East: Free (.)\n- West: Wall (#)\nSo, 1 adjacent cell is a wall:\nQ2: 1\n\nQ3: The cell immediately west of A is a wall (#):\nQ3: yes\n\nQ4: Counting the Manhattan distance:\n- A is at row 9, column 11\n- G is at row 7, column 2\n- Vertical distance: |9-7| = 2\n- Horizontal distance: |11-2| = 9\n- Total Manhattan distance: 2 + 9 = 11\nQ4: 11\n\nQ5: Yes, a path exists from A to G. The agent can move south and then west through the free cells:\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep46",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the relative positions. G is to the northwest of A.\nA: NW\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: #\n- South: .\n- East: .\n- West: .\nOnly 1 is a wall (#).\nA: 1\n\nQ3: The cell immediately west of A is a free space (.)\nA: no\n\nQ4: To calculate Manhattan distance:\n- A is at row 8, column 7\n- G is at row 3, column 2\n- Vertical distance: |8-3| = 5\n- Horizontal distance: |7-2| = 5\n- Total Manhattan distance: 5 + 5 = 10\nA: 10\n\nQ5: Looking at the map, there are no walls blocking a path from A to G. I can trace a path through free cells (., A, G).\nA: yes\n\nFinal answers:\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep46",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the relative positions. G is to the northwest of A.\nA: NW\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: #\n- South: .\n- East: .\n- West: .\nOnly 1 is a wall (#).\nA: 1\n\nQ3: The cell immediately west of A is a free space (.)\nA: no\n\nQ4: To calculate Manhattan distance:\n- A is at row 8, column 7\n- G is at row 3, column 2\n- Vertical distance: |8-3| = 5\n- Horizontal distance: |7-2| = 5\n- Total Manhattan distance: 5 + 5 = 10\nA: 10\n\nQ5: Looking at the map, there are no walls blocking a path from A to G. I can trace a path through free cells (., A, G).\nA: yes\n\nFinal answers:\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep46",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the relative positions. G is to the northwest of A.\nA: NW\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: #\n- South: .\n- East: .\n- West: .\nOnly 1 is a wall (#).\nA: 1\n\nQ3: The cell immediately west of A is a free space (.)\nA: no\n\nQ4: To calculate Manhattan distance:\n- A is at row 8, column 7\n- G is at row 3, column 2\n- Vertical distance: |8-3| = 5\n- Horizontal distance: |7-2| = 5\n- Total Manhattan distance: 5 + 5 = 10\nA: 10\n\nQ5: Looking at the map, there are no walls blocking a path from A to G. I can trace a path through free cells (., A, G).\nA: yes\n\nFinal answers:\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep46",
+  "qid": "Q5",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: To find the direction of G from A, I need to look at the relative positions. G is to the northwest of A.\nA: NW\n\nQ2: Looking at the 4 adjacent cells around A:\n- North: #\n- South: .\n- East: .\n- West: .\nOnly 1 is a wall (#).\nA: 1\n\nQ3: The cell immediately west of A is a free space (.)\nA: no\n\nQ4: To calculate Manhattan distance:\n- A is at row 8, column 7\n- G is at row 3, column 2\n- Vertical distance: |8-3| = 5\n- Horizontal distance: |7-2| = 5\n- Total Manhattan distance: 5 + 5 = 10\nA: 10\n\nQ5: Looking at the map, there are no walls blocking a path from A to G. I can trace a path through free cells (., A, G).\nA: yes\n\nFinal answers:\nQ1: NW\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep47",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "SW",
+  "raw_output": "Q1: SW  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep47",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Q1: SW  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep47",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Q1: SW  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep47",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "12",
+  "raw_output": "Q1: SW  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep47",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Q1: SW  \nQ2: 1  \nQ3: no  \nQ4: 12  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep48",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "SE",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is south-east of the agent (A), so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: #\n- South: .\n- East: #\n- West: .\nSo, 2 of the adjacent cells are walls.\n\nQ3: The cell immediately west of A is a free space (.), not a wall.\n\nQ4: The Manhattan distance can be calculated by counting steps:\n- From A (row 7, col 2) to G (row 5, col 8)\n- Row difference: |7-5| = 2\n- Column difference: |2-8| = 6\n- Total Manhattan distance = 2 + 6 = 8\n\nQ5: Yes, a path exists from A to G. The agent can move right until it reaches column 8, then move up to reach the goal.\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep48",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "4",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is south-east of the agent (A), so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: #\n- South: .\n- East: #\n- West: .\nSo, 2 of the adjacent cells are walls.\n\nQ3: The cell immediately west of A is a free space (.), not a wall.\n\nQ4: The Manhattan distance can be calculated by counting steps:\n- From A (row 7, col 2) to G (row 5, col 8)\n- Row difference: |7-5| = 2\n- Column difference: |2-8| = 6\n- Total Manhattan distance = 2 + 6 = 8\n\nQ5: Yes, a path exists from A to G. The agent can move right until it reaches column 8, then move up to reach the goal.\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep48",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is south-east of the agent (A), so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: #\n- South: .\n- East: #\n- West: .\nSo, 2 of the adjacent cells are walls.\n\nQ3: The cell immediately west of A is a free space (.), not a wall.\n\nQ4: The Manhattan distance can be calculated by counting steps:\n- From A (row 7, col 2) to G (row 5, col 8)\n- Row difference: |7-5| = 2\n- Column difference: |2-8| = 6\n- Total Manhattan distance = 2 + 6 = 8\n\nQ5: Yes, a path exists from A to G. The agent can move right until it reaches column 8, then move up to reach the goal.\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep48",
+  "qid": "Q4",
+  "truth": "8",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: The goal (G) is south-east of the agent (A), so the answer is SE.\n\nQ2: Looking at the 4 adjacent cells to A:\n- North: #\n- South: .\n- East: #\n- West: .\nSo, 2 of the adjacent cells are walls.\n\nQ3: The cell immediately west of A is a free space (.), not a wall.\n\nQ4: The Manhattan distance can be calculated by counting steps:\n- From A (row 7, col 2) to G (row 5, col 8)\n- Row difference: |7-5| = 2\n- Column difference: |2-8| = 6\n- Total Manhattan distance = 2 + 6 = 8\n\nQ5: Yes, a path exists from A to G. The agent can move right until it reaches column 8, then move up to reach the goal.\n\nHere are the answers in the requested format:\nQ1: SE\nQ2: 2\nQ3: no\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep49",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "NW",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (9,9) counting from (0,0) top-left\n- The goal (G) is at position (3,3)\n- The agent can move through '.' cells but not '#' cells\n\n2. For each question:\n\nQ1: Looking at the relative position of G from A, G is northwest (NW) of A\nQ2: Counting the walls adjacent to A: north=#, south=#, east=., west=.\n   So there are 2 walls adjacent to A\nQ3: The cell west of A is '.' (free space), not a wall\nQ4: Counting the Manhattan distance:\n   Vertical distance: 9-3 = 6\n   Horizontal distance: 9-3 = 6\n   Total distance = 12\nQ5: Yes, there is a clear path from A to G through the free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep49",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (9,9) counting from (0,0) top-left\n- The goal (G) is at position (3,3)\n- The agent can move through '.' cells but not '#' cells\n\n2. For each question:\n\nQ1: Looking at the relative position of G from A, G is northwest (NW) of A\nQ2: Counting the walls adjacent to A: north=#, south=#, east=., west=.\n   So there are 2 walls adjacent to A\nQ3: The cell west of A is '.' (free space), not a wall\nQ4: Counting the Manhattan distance:\n   Vertical distance: 9-3 = 6\n   Horizontal distance: 9-3 = 6\n   Total distance = 12\nQ5: Yes, there is a clear path from A to G through the free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep49",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (9,9) counting from (0,0) top-left\n- The goal (G) is at position (3,3)\n- The agent can move through '.' cells but not '#' cells\n\n2. For each question:\n\nQ1: Looking at the relative position of G from A, G is northwest (NW) of A\nQ2: Counting the walls adjacent to A: north=#, south=#, east=., west=.\n   So there are 2 walls adjacent to A\nQ3: The cell west of A is '.' (free space), not a wall\nQ4: Counting the Manhattan distance:\n   Vertical distance: 9-3 = 6\n   Horizontal distance: 9-3 = 6\n   Total distance = 12\nQ5: Yes, there is a clear path from A to G through the free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep49",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (9,9) counting from (0,0) top-left\n- The goal (G) is at position (3,3)\n- The agent can move through '.' cells but not '#' cells\n\n2. For each question:\n\nQ1: Looking at the relative position of G from A, G is northwest (NW) of A\nQ2: Counting the walls adjacent to A: north=#, south=#, east=., west=.\n   So there are 2 walls adjacent to A\nQ3: The cell west of A is '.' (free space), not a wall\nQ4: Counting the Manhattan distance:\n   Vertical distance: 9-3 = 6\n   Horizontal distance: 9-3 = 6\n   Total distance = 12\nQ5: Yes, there is a clear path from A to G through the free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep49",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- The agent (A) is at position (9,9) counting from (0,0) top-left\n- The goal (G) is at position (3,3)\n- The agent can move through '.' cells but not '#' cells\n\n2. For each question:\n\nQ1: Looking at the relative position of G from A, G is northwest (NW) of A\nQ2: Counting the walls adjacent to A: north=#, south=#, east=., west=.\n   So there are 2 walls adjacent to A\nQ3: The cell west of A is '.' (free space), not a wall\nQ4: Counting the Manhattan distance:\n   Vertical distance: 9-3 = 6\n   Horizontal distance: 9-3 = 6\n   Total distance = 12\nQ5: Yes, there is a clear path from A to G through the free cells\n\nHere are the answers:\n\nQ1: NW\nQ2: 2\nQ3: no\nQ4: 12\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep50",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: no  \nQ4: 11  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep50",
+  "qid": "Q4",
+  "truth": "13",
+  "parsed": "11",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: no  \nQ4: 11  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep51",
+  "qid": "Q1",
+  "truth": "NE",
+  "parsed": "E",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A)\nQ2: Looking at the cells directly adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls adjacent to A\nQ3: The cell immediately west of A is a wall (#)\nQ4: To find the Manhattan distance:\n   - A is at position (5,8)\n   - G is at position (4,13)\n   - Vertical distance: |5-4| = 1\n   - Horizontal distance: |8-13| = 5\n   - Total Manhattan distance: 1 + 5 = 6\nQ5: Yes, there is a clear path from A to G through free cells\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep51",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A)\nQ2: Looking at the cells directly adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls adjacent to A\nQ3: The cell immediately west of A is a wall (#)\nQ4: To find the Manhattan distance:\n   - A is at position (5,8)\n   - G is at position (4,13)\n   - Vertical distance: |5-4| = 1\n   - Horizontal distance: |8-13| = 5\n   - Total Manhattan distance: 1 + 5 = 6\nQ5: Yes, there is a clear path from A to G through free cells\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep51",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A)\nQ2: Looking at the cells directly adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls adjacent to A\nQ3: The cell immediately west of A is a wall (#)\nQ4: To find the Manhattan distance:\n   - A is at position (5,8)\n   - G is at position (4,13)\n   - Vertical distance: |5-4| = 1\n   - Horizontal distance: |8-13| = 5\n   - Total Manhattan distance: 1 + 5 = 6\nQ5: Yes, there is a clear path from A to G through free cells\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep51",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": null,
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A)\nQ2: Looking at the cells directly adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls adjacent to A\nQ3: The cell immediately west of A is a wall (#)\nQ4: To find the Manhattan distance:\n   - A is at position (5,8)\n   - G is at position (4,13)\n   - Vertical distance: |5-4| = 1\n   - Horizontal distance: |8-13| = 5\n   - Total Manhattan distance: 1 + 5 = 6\nQ5: Yes, there is a clear path from A to G through free cells\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep51",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\nQ1: Looking at the map, the goal (G) is to the east of the agent (A)\nQ2: Looking at the cells directly adjacent to A:\n   - North: wall\n   - South: free\n   - East: free\n   - West: wall\n   So there are 2 walls adjacent to A\nQ3: The cell immediately west of A is a wall (#)\nQ4: To find the Manhattan distance:\n   - A is at position (5,8)\n   - G is at position (4,13)\n   - Vertical distance: |5-4| = 1\n   - Horizontal distance: |8-13| = 5\n   - Total Manhattan distance: 1 + 5 = 6\nQ5: Yes, there is a clear path from A to G through free cells\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 6\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep52",
+  "qid": "Q2",
+  "truth": "3",
+  "parsed": "2",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- Agent (A) is at row 5, column 6\n- Goal (G) is at row 3, column 2\n- The agent is south and west of the goal\n\nQ1: NW (The goal is northwest of the agent)\nQ2: 2 (The north and west cells adjacent to the agent are walls)\nQ3: Yes (The cell immediately west of the agent is a wall)\nQ4: 5 (The agent is 3 steps west and 2 steps north from the goal)\nQ5: Yes (A clear path exists from the agent to the goal through the free cells)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep52",
+  "qid": "Q4",
+  "truth": "6",
+  "parsed": "5",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see that:\n- Agent (A) is at row 5, column 6\n- Goal (G) is at row 3, column 2\n- The agent is south and west of the goal\n\nQ1: NW (The goal is northwest of the agent)\nQ2: 2 (The north and west cells adjacent to the agent are walls)\nQ3: Yes (The cell immediately west of the agent is a wall)\nQ4: 5 (The agent is 3 steps west and 2 steps north from the goal)\nQ5: Yes (A clear path exists from the agent to the goal through the free cells)"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep53",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "SW",
+  "raw_output": "Let me solve this step by step:\n\n1. Looking at the map, I can find 'A' (agent) at row 8, column 11\n2. 'G' (goal) is at row 6, column 6\n3. From the agent's position:\n   - North is wall\n   - South is free\n   - East is wall\n   - West is free\n\nQ1: SW (the goal is southwest of the agent)\nQ2: 2 (north and east are walls)\nQ3: no (the cell to the west is free)\nQ4: 7 (the Manhattan distance is 5 rows down + 2 columns left = 7)\nQ5: yes (a clear path exists southwest from the agent to the goal)\n\nAnswer:\nQ1: SW\nQ2: 2\nQ3: no\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep53",
+  "qid": "Q3",
+  "truth": "yes",
+  "parsed": "no",
+  "raw_output": "Let me solve this step by step:\n\n1. Looking at the map, I can find 'A' (agent) at row 8, column 11\n2. 'G' (goal) is at row 6, column 6\n3. From the agent's position:\n   - North is wall\n   - South is free\n   - East is wall\n   - West is free\n\nQ1: SW (the goal is southwest of the agent)\nQ2: 2 (north and east are walls)\nQ3: no (the cell to the west is free)\nQ4: 7 (the Manhattan distance is 5 rows down + 2 columns left = 7)\nQ5: yes (a clear path exists southwest from the agent to the goal)\n\nAnswer:\nQ1: SW\nQ2: 2\nQ3: no\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep53",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me solve this step by step:\n\n1. Looking at the map, I can find 'A' (agent) at row 8, column 11\n2. 'G' (goal) is at row 6, column 6\n3. From the agent's position:\n   - North is wall\n   - South is free\n   - East is wall\n   - West is free\n\nQ1: SW (the goal is southwest of the agent)\nQ2: 2 (north and east are walls)\nQ3: no (the cell to the west is free)\nQ4: 7 (the Manhattan distance is 5 rows down + 2 columns left = 7)\nQ5: yes (a clear path exists southwest from the agent to the goal)\n\nAnswer:\nQ1: SW\nQ2: 2\nQ3: no\nQ4: 7\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep54",
+  "qid": "Q1",
+  "truth": "SW",
+  "parsed": "SE",
+  "raw_output": "Let me solve this step by step:\n\n1. First, I'll locate A (agent) and G (goal) on the map:\n   A is at row 1, column 15\n   G is at row 4, column 7\n\n2. Now I can answer each question:\n\nQ1: SE (The goal is southeast of the agent)\nQ2: 1 (The cell to the north is a wall, all others are free)\nQ3: no (The cell to the west is '.', not '#')\nQ4: 9 (Counting the steps: 7 steps west + 2 steps south)\nQ5: yes (A clear path exists through the free cells)\n\nTherefore, the answers are:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep54",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me solve this step by step:\n\n1. First, I'll locate A (agent) and G (goal) on the map:\n   A is at row 1, column 15\n   G is at row 4, column 7\n\n2. Now I can answer each question:\n\nQ1: SE (The goal is southeast of the agent)\nQ2: 1 (The cell to the north is a wall, all others are free)\nQ3: no (The cell to the west is '.', not '#')\nQ4: 9 (Counting the steps: 7 steps west + 2 steps south)\nQ5: yes (A clear path exists through the free cells)\n\nTherefore, the answers are:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep54",
+  "qid": "Q4",
+  "truth": "7",
+  "parsed": "9",
+  "raw_output": "Let me solve this step by step:\n\n1. First, I'll locate A (agent) and G (goal) on the map:\n   A is at row 1, column 15\n   G is at row 4, column 7\n\n2. Now I can answer each question:\n\nQ1: SE (The goal is southeast of the agent)\nQ2: 1 (The cell to the north is a wall, all others are free)\nQ3: no (The cell to the west is '.', not '#')\nQ4: 9 (Counting the steps: 7 steps west + 2 steps south)\nQ5: yes (A clear path exists through the free cells)\n\nTherefore, the answers are:\n\nQ1: SE\nQ2: 1\nQ3: no\nQ4: 9\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep55",
+  "qid": "Q2",
+  "truth": "2",
+  "parsed": "1",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 14, column 7 and 'G' (goal) at row 14, column 17\n2. The agent is surrounded by:\n   - North: Free (.)\n   - South: Wall (#)\n   - East: Free (.)\n   - West: Free (.)\n\nQ1: E (The goal is directly east of the agent)\nQ2: 1 (Only the south cell is a wall)\nQ3: no (The cell immediately west of the agent is free)\nQ4: 10 (Counting the cells: 10 steps east to reach the goal's column, then 0 steps north/south)\nQ5: yes (There is a clear path east from the agent to the goal through free cells)\n\nQ1: E\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep55",
+  "qid": "Q4",
+  "truth": "9",
+  "parsed": "10",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 14, column 7 and 'G' (goal) at row 14, column 17\n2. The agent is surrounded by:\n   - North: Free (.)\n   - South: Wall (#)\n   - East: Free (.)\n   - West: Free (.)\n\nQ1: E (The goal is directly east of the agent)\nQ2: 1 (Only the south cell is a wall)\nQ3: no (The cell immediately west of the agent is free)\nQ4: 10 (Counting the cells: 10 steps east to reach the goal's column, then 0 steps north/south)\nQ5: yes (There is a clear path east from the agent to the goal through free cells)\n\nQ1: E\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep55",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 14, column 7 and 'G' (goal) at row 14, column 17\n2. The agent is surrounded by:\n   - North: Free (.)\n   - South: Wall (#)\n   - East: Free (.)\n   - West: Free (.)\n\nQ1: E (The goal is directly east of the agent)\nQ2: 1 (Only the south cell is a wall)\nQ3: no (The cell immediately west of the agent is free)\nQ4: 10 (Counting the cells: 10 steps east to reach the goal's column, then 0 steps north/south)\nQ5: yes (There is a clear path east from the agent to the goal through free cells)\n\nQ1: E\nQ2: 1\nQ3: no\nQ4: 10\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep56",
+  "qid": "Q1",
+  "truth": "NW",
+  "parsed": "E",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep56",
+  "qid": "Q4",
+  "truth": "5",
+  "parsed": "7",
+  "raw_output": "Q1: E  \nQ2: 2  \nQ3: no  \nQ4: 7  \nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep57",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me analyze this step by step:\n\n1. Looking at the map, I can see 'A' (agent) at row 6, column 2 and 'G' (goal) at row 6, column 10.\n2. The agent is at position (6,2) and the goal is at (6,10).\n3. Checking the 4 adjacent cells around the agent:\n   - North: wall (row 5, column 2)\n   - South: free (row 7, column 2)\n   - East: free (row 6, column 3)\n   - West: wall (row 6, column 1)\n\nNow the answers:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep58",
+  "qid": "Q1",
+  "truth": "SE",
+  "parsed": "E",
+  "raw_output": "Let me solve this step by step:\n\n1. First, let me locate A (agent) and G (goal) on the map:\n   - A is at row 5, column 4\n   - G is at row 5, column 12\n\n2. Now I can answer each question:\n\nQ1: E (The goal is directly east of the agent)\nQ2: 2 (The north and south cells adjacent to A are walls)\nQ3: yes (The cell west of A is a wall)\nQ4: 8 (The agent needs to move 8 steps east to reach the goal's column, then 0 steps north/south)\nQ5: yes (There is a clear path from A to G through the free cells)\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep58",
+  "qid": "Q4",
+  "truth": "11",
+  "parsed": "8",
+  "raw_output": "Let me solve this step by step:\n\n1. First, let me locate A (agent) and G (goal) on the map:\n   - A is at row 5, column 4\n   - G is at row 5, column 12\n\n2. Now I can answer each question:\n\nQ1: E (The goal is directly east of the agent)\nQ2: 2 (The north and south cells adjacent to A are walls)\nQ3: yes (The cell west of A is a wall)\nQ4: 8 (The agent needs to move 8 steps east to reach the goal's column, then 0 steps north/south)\nQ5: yes (There is a clear path from A to G through the free cells)\n\nHere are the answers in the requested format:\n\nQ1: E\nQ2: 2\nQ3: yes\nQ4: 8\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep59",
+  "qid": "Q3",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me solve this step by step:\n\n1. First, I'll locate the agent (A) and goal (G) on the map:\n   - A is at row 4, column 7\n   - G is at row 6, column 15\n\n2. Now I'll answer each question:\n\nQ1: SE (The goal is southeast of the agent)\nQ2: 2 (The north and east cells adjacent to A are walls)\nQ3: yes (The cell west of A is a wall)\nQ4: 11 (Counting the minimum number of steps north/south/east/west)\nQ5: yes (A path exists: the agent can move southeast to reach the goal)\n\nAnswer:\nQ1: SE\nQ2: 2\nQ3: yes\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep59",
+  "qid": "Q4",
+  "truth": "10",
+  "parsed": "11",
+  "raw_output": "Let me solve this step by step:\n\n1. First, I'll locate the agent (A) and goal (G) on the map:\n   - A is at row 4, column 7\n   - G is at row 6, column 15\n\n2. Now I'll answer each question:\n\nQ1: SE (The goal is southeast of the agent)\nQ2: 2 (The north and east cells adjacent to A are walls)\nQ3: yes (The cell west of A is a wall)\nQ4: 11 (Counting the minimum number of steps north/south/east/west)\nQ5: yes (A path exists: the agent can move southeast to reach the goal)\n\nAnswer:\nQ1: SE\nQ2: 2\nQ3: yes\nQ4: 11\nQ5: yes"
+ },
+ {
+  "reader": "minimax",
+  "episode_id": "ep59",
+  "qid": "Q5",
+  "truth": "no",
+  "parsed": "yes",
+  "raw_output": "Let me solve this step by step:\n\n1. First, I'll locate the agent (A) and goal (G) on the map:\n   - A is at row 4, column 7\n   - G is at row 6, column 15\n\n2. Now I'll answer each question:\n\nQ1: SE (The goal is southeast of the agent)\nQ2: 2 (The north and east cells adjacent to A are walls)\nQ3: yes (The cell west of A is a wall)\nQ4: 11 (Counting the minimum number of steps north/south/east/west)\nQ5: yes (A path exists: the agent can move southeast to reach the goal)\n\nAnswer:\nQ1: SE\nQ2: 2\nQ3: yes\nQ4: 11\nQ5: yes"
+ }
+]

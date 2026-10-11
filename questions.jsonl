@@ -1,0 +1,300 @@
+{"episode_id": "ep00", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep00", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep00", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep00", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "7"}
+{"episode_id": "ep00", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep01", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "E"}
+{"episode_id": "ep01", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep01", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep01", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "6"}
+{"episode_id": "ep01", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep02", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep02", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep02", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep02", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep02", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep03", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "W"}
+{"episode_id": "ep03", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep03", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep03", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "8"}
+{"episode_id": "ep03", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep04", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep04", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep04", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep04", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "6"}
+{"episode_id": "ep04", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep05", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep05", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep05", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep05", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "12"}
+{"episode_id": "ep05", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep06", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep06", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "3"}
+{"episode_id": "ep06", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep06", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "17"}
+{"episode_id": "ep06", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep07", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep07", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep07", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep07", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "20"}
+{"episode_id": "ep07", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep08", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep08", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep08", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep08", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep08", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep09", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep09", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep09", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep09", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "6"}
+{"episode_id": "ep09", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep10", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep10", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep10", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep10", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "11"}
+{"episode_id": "ep10", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep11", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep11", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep11", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep11", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "17"}
+{"episode_id": "ep11", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep12", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep12", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep12", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep12", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "7"}
+{"episode_id": "ep12", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep13", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep13", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep13", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep13", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep13", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep14", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep14", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep14", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep14", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "8"}
+{"episode_id": "ep14", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep15", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep15", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep15", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep15", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "18"}
+{"episode_id": "ep15", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep16", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep16", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep16", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep16", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "5"}
+{"episode_id": "ep16", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep17", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep17", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "1"}
+{"episode_id": "ep17", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep17", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "9"}
+{"episode_id": "ep17", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep18", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep18", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep18", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep18", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "13"}
+{"episode_id": "ep18", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep19", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep19", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep19", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep19", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "11"}
+{"episode_id": "ep19", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep20", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep20", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep20", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep20", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "9"}
+{"episode_id": "ep20", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep21", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep21", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep21", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep21", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "15"}
+{"episode_id": "ep21", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep22", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep22", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "3"}
+{"episode_id": "ep22", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep22", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "8"}
+{"episode_id": "ep22", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep23", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep23", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep23", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep23", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "13"}
+{"episode_id": "ep23", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep24", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep24", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep24", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep24", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "11"}
+{"episode_id": "ep24", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep25", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep25", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep25", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep25", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "8"}
+{"episode_id": "ep25", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep26", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep26", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep26", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep26", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "13"}
+{"episode_id": "ep26", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep27", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep27", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "3"}
+{"episode_id": "ep27", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep27", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "9"}
+{"episode_id": "ep27", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep28", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "N"}
+{"episode_id": "ep28", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep28", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep28", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "6"}
+{"episode_id": "ep28", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep29", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep29", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep29", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep29", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "11"}
+{"episode_id": "ep29", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep30", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep30", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep30", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep30", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "13"}
+{"episode_id": "ep30", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep31", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep31", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep31", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep31", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "19"}
+{"episode_id": "ep31", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep32", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep32", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "1"}
+{"episode_id": "ep32", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep32", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "5"}
+{"episode_id": "ep32", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep33", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep33", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "1"}
+{"episode_id": "ep33", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep33", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "8"}
+{"episode_id": "ep33", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep34", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep34", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep34", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep34", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "12"}
+{"episode_id": "ep34", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep35", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep35", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep35", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep35", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "9"}
+{"episode_id": "ep35", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep36", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep36", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep36", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep36", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "7"}
+{"episode_id": "ep36", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep37", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep37", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep37", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep37", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "13"}
+{"episode_id": "ep37", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep38", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep38", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "3"}
+{"episode_id": "ep38", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep38", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "14"}
+{"episode_id": "ep38", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep39", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep39", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep39", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep39", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "14"}
+{"episode_id": "ep39", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep40", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep40", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep40", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep40", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "7"}
+{"episode_id": "ep40", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep41", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep41", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep41", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep41", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep41", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep42", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "S"}
+{"episode_id": "ep42", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep42", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep42", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep42", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep43", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep43", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep43", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep43", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "19"}
+{"episode_id": "ep43", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep44", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep44", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep44", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep44", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "11"}
+{"episode_id": "ep44", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep45", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep45", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "1"}
+{"episode_id": "ep45", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep45", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep45", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep46", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep46", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep46", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep46", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep46", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep47", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep47", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep47", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep47", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "13"}
+{"episode_id": "ep47", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep48", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep48", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep48", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep48", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "8"}
+{"episode_id": "ep48", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep49", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep49", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep49", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep49", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "6"}
+{"episode_id": "ep49", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep50", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep50", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep50", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep50", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "13"}
+{"episode_id": "ep50", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep51", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NE"}
+{"episode_id": "ep51", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep51", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep51", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "9"}
+{"episode_id": "ep51", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep52", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep52", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "3"}
+{"episode_id": "ep52", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep52", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "6"}
+{"episode_id": "ep52", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep53", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep53", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep53", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep53", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "7"}
+{"episode_id": "ep53", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep54", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SW"}
+{"episode_id": "ep54", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep54", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep54", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "7"}
+{"episode_id": "ep54", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep55", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "E"}
+{"episode_id": "ep55", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep55", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep55", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "9"}
+{"episode_id": "ep55", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep56", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "NW"}
+{"episode_id": "ep56", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep56", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep56", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "5"}
+{"episode_id": "ep56", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep57", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "E"}
+{"episode_id": "ep57", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep57", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep57", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "8"}
+{"episode_id": "ep57", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep58", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep58", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep58", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep58", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "11"}
+{"episode_id": "ep58", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "yes"}
+{"episode_id": "ep59", "qid": "Q1", "question": "In which direction is the goal (G) from the agent (A)? (Answer with exactly one of: N, NE, E, SE, S, SW, W, NW)", "answer": "SE"}
+{"episode_id": "ep59", "qid": "Q2", "question": "How many of the 4 cells directly adjacent to the agent (north, south, east, west) are walls (#)? (Answer with a single digit 0-4)", "answer": "2"}
+{"episode_id": "ep59", "qid": "Q3", "question": "Is the cell immediately west (left) of the agent a wall (#)? (Answer yes or no)", "answer": "no"}
+{"episode_id": "ep59", "qid": "Q4", "question": "What is the Manhattan distance between the agent and the goal (counting steps north/south/east/west only, ignoring walls)? (Answer with a number)", "answer": "10"}
+{"episode_id": "ep59", "qid": "Q5", "question": "Does any path exist from the agent to the goal moving only north/south/east/west through free cells (never through walls)? (Answer yes or no)", "answer": "no"}
