@@ -1,0 +1,7706 @@
+{
+ "results": {
+  "maze_ep00": {
+   "item_id": "b463c1a1ef61a252dd49d2c302671640845c7f2c3408a1041aabb2c607ba0c4a",
+   "stats": {
+    "facts_agree": 6,
+    "facts_disagree": 4,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1911,
+     "total_characters": 0,
+     "prompt_tokens": 772,
+     "completion_tokens": 1139
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep00",
+    "seed": 2000,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep02": {
+   "item_id": "95183bd4e6f4e65b697ab00ae8530b763774edd835d8786813e25fef00925da5",
+   "stats": {
+    "facts_agree": 6,
+    "facts_disagree": 4,
+    "regions_agree": 3,
+    "regions_disagree": 9,
+    "usage": {
+     "total_tokens": 1411,
+     "total_characters": 0,
+     "prompt_tokens": 807,
+     "completion_tokens": 604
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep02",
+    "seed": 2002,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep03": {
+   "item_id": "3acdcdfb1881514f3023109aa3e92071b668039dc219d7d5dde9346d79bc0757",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1564,
+     "total_characters": 0,
+     "prompt_tokens": 832,
+     "completion_tokens": 732
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep03",
+    "seed": 2003,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep04": {
+   "item_id": "4ddb99767204111558b48be33b89b782eab5d0c901e4584a722db68f97581073",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1821,
+     "total_characters": 0,
+     "prompt_tokens": 774,
+     "completion_tokens": 1047
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep04",
+    "seed": 2004,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep01": {
+   "item_id": "05f0c748627e1c1c00dc88b5493ae7a2ceeb19c5bed44207d191ef77d297dc27",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 4,
+    "regions_disagree": 8,
+    "usage": {
+     "total_tokens": 2018,
+     "total_characters": 0,
+     "prompt_tokens": 793,
+     "completion_tokens": 1225
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep01",
+    "seed": 2001,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep06": {
+   "item_id": "0de531e0c243a5f7402d8cf4b8a5ef64ec4dd39dbcfc52e028c5ce7f8e7d7487",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 3,
+    "regions_disagree": 9,
+    "usage": {
+     "total_tokens": 1570,
+     "total_characters": 0,
+     "prompt_tokens": 808,
+     "completion_tokens": 762
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep06",
+    "seed": 2006,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep07": {
+   "item_id": "4aae8736ab1e51fc78985ebc278eafcc6ed4ff4904ea54c7bc21e4218b02d5a3",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1438,
+     "total_characters": 0,
+     "prompt_tokens": 834,
+     "completion_tokens": 604
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep07",
+    "seed": 2007,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep05": {
+   "item_id": "50a6e499720d671a8027a4b02d4d739fa4d480758ead830f9a54a912993ad0b5",
+   "stats": {
+    "facts_agree": 2,
+    "facts_disagree": 8,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 2103,
+     "total_characters": 0,
+     "prompt_tokens": 791,
+     "completion_tokens": 1312
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep05",
+    "seed": 2005,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep08": {
+   "item_id": "666feb16d4761a14487c55be3df29b316d5e8a88f41d3d9e8bcb51dbb4fd5345",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 7,
+    "regions_disagree": 5,
+    "usage": {
+     "total_tokens": 1912,
+     "total_characters": 0,
+     "prompt_tokens": 775,
+     "completion_tokens": 1137
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep08",
+    "seed": 2008,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep10": {
+   "item_id": "ddb5d9606e73d533c9190707e331f41222ac05d4a91b2687143fbbe63e6e86da",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 1,
+    "regions_disagree": 11,
+    "usage": {
+     "total_tokens": 1418,
+     "total_characters": 0,
+     "prompt_tokens": 812,
+     "completion_tokens": 606
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep10",
+    "seed": 2010,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep11": {
+   "item_id": "c7c5be46fb1a026eb72529f5bc5a98efb81d6e5af3939fab935b68627f751f62",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 7,
+    "regions_disagree": 5,
+    "usage": {
+     "total_tokens": 1534,
+     "total_characters": 0,
+     "prompt_tokens": 839,
+     "completion_tokens": 695
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep11",
+    "seed": 2011,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep09": {
+   "item_id": "3caf38e8f587a2289e5370283e629fd7d794780953eada51db190112d402a65e",
+   "stats": {
+    "facts_agree": 2,
+    "facts_disagree": 8,
+    "regions_agree": 8,
+    "regions_disagree": 4,
+    "usage": {
+     "total_tokens": 2109,
+     "total_characters": 0,
+     "prompt_tokens": 794,
+     "completion_tokens": 1315
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep09",
+    "seed": 2009,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep12": {
+   "item_id": "5662c58b80bb0e23eddc826331cebcd03871f31ad23259789d88f8cbe9f4e357",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 3,
+    "regions_disagree": 9,
+    "usage": {
+     "total_tokens": 1914,
+     "total_characters": 0,
+     "prompt_tokens": 775,
+     "completion_tokens": 1139
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep12",
+    "seed": 2012,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep15": {
+   "item_id": "7206db4c2797b24422f0f4ce3b17d149caff91da01989471ab2865e220c6b761",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 4,
+    "regions_disagree": 8,
+    "usage": {
+     "total_tokens": 1430,
+     "total_characters": 0,
+     "prompt_tokens": 831,
+     "completion_tokens": 599
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep15",
+    "seed": 2015,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep13": {
+   "item_id": "59e87cf53551fcde6f1aaf9788d510c04c857909c1f11d7633ab35011a0bc245",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 2100,
+     "total_characters": 0,
+     "prompt_tokens": 789,
+     "completion_tokens": 1311
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep13",
+    "seed": 2013,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep14": {
+   "item_id": "ebb1fcb7815d0219ceeb99c02139a96c1b4c8eb682014ce8c4c894a8c36cffc9",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 4,
+    "regions_disagree": 8,
+    "usage": {
+     "total_tokens": 2213,
+     "total_characters": 0,
+     "prompt_tokens": 814,
+     "completion_tokens": 1399
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep14",
+    "seed": 2014,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep18": {
+   "item_id": "54170ce18402e1d37528dbf1dc11acc6aac9683101c42cd8bde3b2a361b96be3",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1413,
+     "total_characters": 0,
+     "prompt_tokens": 809,
+     "completion_tokens": 604
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep18",
+    "seed": 2018,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep16": {
+   "item_id": "d2fb4b5481e708d40fdcecb7c33506cb2b664680c417a956f6f1885c53dd9c77",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 8,
+    "regions_disagree": 4,
+    "usage": {
+     "total_tokens": 1911,
+     "total_characters": 0,
+     "prompt_tokens": 774,
+     "completion_tokens": 1137
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep16",
+    "seed": 2016,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep19": {
+   "item_id": "70a90f44ca9a3ceecec9f276aa07b024ddefe700caa2a0c67bea2406cb4768d0",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 2,
+    "regions_disagree": 10,
+    "usage": {
+     "total_tokens": 1431,
+     "total_characters": 0,
+     "prompt_tokens": 826,
+     "completion_tokens": 605
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep19",
+    "seed": 2019,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep17": {
+   "item_id": "5377e00b43326cd25de6237055e264562952cf2e90fae257a85f4ee76e1a3027",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 2111,
+     "total_characters": 0,
+     "prompt_tokens": 796,
+     "completion_tokens": 1315
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep17",
+    "seed": 2017,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep21": {
+   "item_id": "fe748c1b44942b92f1afef8eb97331924a03bd9fe89b5b943bdc5280a53645e2",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1400,
+     "total_characters": 0,
+     "prompt_tokens": 794,
+     "completion_tokens": 606
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep21",
+    "seed": 2021,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep23": {
+   "item_id": "32f20a0b97848eda633b8c010cd32ebe1200acb1dc6e1719961422d2d1f169c2",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1447,
+     "total_characters": 0,
+     "prompt_tokens": 840,
+     "completion_tokens": 607
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep23",
+    "seed": 2023,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep20": {
+   "item_id": "5e4702cd31fb3334025333bcf149577d8ae200ec6bd56e9318e3edfd0f314aec",
+   "stats": {
+    "facts_agree": 6,
+    "facts_disagree": 4,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1907,
+     "total_characters": 0,
+     "prompt_tokens": 770,
+     "completion_tokens": 1137
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep20",
+    "seed": 2020,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep22": {
+   "item_id": "9bf04b7b384937ff167fd2dbcdb155057070486fbf3a37f6a77ae8d9c9c2db55",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 3,
+    "regions_disagree": 9,
+    "usage": {
+     "total_tokens": 2214,
+     "total_characters": 0,
+     "prompt_tokens": 813,
+     "completion_tokens": 1401
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep22",
+    "seed": 2022,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep26": {
+   "item_id": "703cdab7eb6584364324d3c1e05c055a7a93bf0821c47cd5897a1e2bf315b467",
+   "stats": {
+    "facts_agree": 6,
+    "facts_disagree": 4,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1413,
+     "total_characters": 0,
+     "prompt_tokens": 811,
+     "completion_tokens": 602
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep26",
+    "seed": 2026,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep24": {
+   "item_id": "0544f9034ecfb4ceaa52a941ad6d89160306a9e0af6892701e32463da4fcaa9b",
+   "stats": {
+    "facts_agree": 8,
+    "facts_disagree": 2,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1910,
+     "total_characters": 0,
+     "prompt_tokens": 772,
+     "completion_tokens": 1138
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep24",
+    "seed": 2024,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep25": {
+   "item_id": "5ac089ab0dcb44cd69ea9db9b1f9a093e89dfa678fcbd9c3f74c49135297d248",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 4,
+    "regions_disagree": 8,
+    "usage": {
+     "total_tokens": 2104,
+     "total_characters": 0,
+     "prompt_tokens": 789,
+     "completion_tokens": 1315
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep25",
+    "seed": 2025,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep27": {
+   "item_id": "7e9b32d294c894d78f9062f6bc02fc6c83954e32c82506da4bddb5444a9267dc",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1434,
+     "total_characters": 0,
+     "prompt_tokens": 832,
+     "completion_tokens": 602
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep27",
+    "seed": 2027,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep29": {
+   "item_id": "fc2e87ccede04803485e6e16ff2416bd9313ffde87eb18b55c7f4fe3f705c0f5",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1394,
+     "total_characters": 0,
+     "prompt_tokens": 786,
+     "completion_tokens": 608
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep29",
+    "seed": 2029,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep28": {
+   "item_id": "fcccac081351c20ad088417a5d65c867e51b0d48414a700e94800cf8ce5c0634",
+   "stats": {
+    "facts_agree": 7,
+    "facts_disagree": 3,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1824,
+     "total_characters": 0,
+     "prompt_tokens": 775,
+     "completion_tokens": 1049
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep28",
+    "seed": 2028,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep31": {
+   "item_id": "af394303431dd767a2f1aaa54594c255fa9215cb7d249dd9b559af34e3434ede",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 4,
+    "regions_disagree": 8,
+    "usage": {
+     "total_tokens": 1601,
+     "total_characters": 0,
+     "prompt_tokens": 840,
+     "completion_tokens": 761
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep31",
+    "seed": 2031,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep30": {
+   "item_id": "4547784f11e6c0a5dbfc1a78073077b7ae97826ac255d0e1a367b1937dec39a2",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 2,
+    "regions_disagree": 10,
+    "usage": {
+     "total_tokens": 1662,
+     "total_characters": 0,
+     "prompt_tokens": 812,
+     "completion_tokens": 850
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep30",
+    "seed": 2030,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep33": {
+   "item_id": "ea4358d0d83e2eecf066dfd4c12fdfef7f879802f5c15dbe5c3a8f567490e5ab",
+   "stats": {
+    "facts_agree": 3,
+    "facts_disagree": 7,
+    "regions_agree": 2,
+    "regions_disagree": 10,
+    "usage": {
+     "total_tokens": 1666,
+     "total_characters": 0,
+     "prompt_tokens": 791,
+     "completion_tokens": 875
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep33",
+    "seed": 2033,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep32": {
+   "item_id": "08b898f8c6fd77ca13c09847dd6763fbaa2c1a1f5c8b1cd98e3361cc094972d7",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1910,
+     "total_characters": 0,
+     "prompt_tokens": 772,
+     "completion_tokens": 1138
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep32",
+    "seed": 2032,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep35": {
+   "item_id": "df1a2cac80ccbe75a2192c5564c8ec01b6a6966beecb79b92883bcde888e792a",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 4,
+    "regions_disagree": 8,
+    "usage": {
+     "total_tokens": 1558,
+     "total_characters": 0,
+     "prompt_tokens": 826,
+     "completion_tokens": 732
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep35",
+    "seed": 2035,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep34": {
+   "item_id": "c828f675969a4a674b672b2725e866ae41fe503434878de1ef5cead1e4218f5c",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 4,
+    "regions_disagree": 8,
+    "usage": {
+     "total_tokens": 2292,
+     "total_characters": 0,
+     "prompt_tokens": 805,
+     "completion_tokens": 1487
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep34",
+    "seed": 2034,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep38": {
+   "item_id": "5e12e455042aafbc56b5e66b7bedfd4c7af5b1daea0c40f24c31d17ac56ffd56",
+   "stats": {
+    "facts_agree": 6,
+    "facts_disagree": 4,
+    "regions_agree": 5,
+    "regions_disagree": 7,
+    "usage": {
+     "total_tokens": 1418,
+     "total_characters": 0,
+     "prompt_tokens": 814,
+     "completion_tokens": 604
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep38",
+    "seed": 2038,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "docks_0000": {
+   "item_id": "f26e4fd0b9ac0ca18f8d91cec4905b4f99fbb4dc30e518a51f237cc7c851267d",
+   "stats": {
+    "kept": 18,
+    "dropped": 4,
+    "usage": [
+     {
+      "total_tokens": 4485,
+      "total_characters": 0,
+      "prompt_tokens": 3940,
+      "completion_tokens": 545
+     },
+     {
+      "total_tokens": 4482,
+      "total_characters": 0,
+      "prompt_tokens": 3940,
+      "completion_tokens": 542
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 0,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 0.0,
+    "frame_header": "# frame 0 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0000.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "maze_ep37": {
+   "item_id": "fd1b229dc7831af2b2cb30b7cd82c99d073431103be4b52da9a0d1dba80cc119",
+   "stats": {
+    "facts_agree": 4,
+    "facts_disagree": 6,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1747,
+     "total_characters": 0,
+     "prompt_tokens": 787,
+     "completion_tokens": 960
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep37",
+    "seed": 2037,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep36": {
+   "item_id": "aeacafe2c5de7c7b3dfa629da2d3a70a0374e1c1fbee9efd0ff9a46a9ed16dd9",
+   "stats": {
+    "facts_agree": 5,
+    "facts_disagree": 5,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1910,
+     "total_characters": 0,
+     "prompt_tokens": 772,
+     "completion_tokens": 1138
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep36",
+    "seed": 2036,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "maze_ep39": {
+   "item_id": "ba4767b40f86668c34c1906e1347c97272a6331e4d99947eca4359f08fc1c329",
+   "stats": {
+    "facts_agree": 2,
+    "facts_disagree": 8,
+    "regions_agree": 6,
+    "regions_disagree": 6,
+    "usage": {
+     "total_tokens": 1610,
+     "total_characters": 0,
+     "prompt_tokens": 827,
+     "completion_tokens": 783
+    },
+    "attempts": 1
+   },
+   "source": {
+    "kind": "mazelab_episode",
+    "episode_id": "ep39",
+    "seed": 2039,
+    "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+   },
+   "split": "train"
+  },
+  "docks_0045": {
+   "item_id": "ee724dea3568fa9f3e19d21ee9e6b2d4c8dc25267a3e8391df3b2131253b6ab4",
+   "stats": {
+    "kept": 15,
+    "dropped": 7,
+    "usage": [
+     {
+      "total_tokens": 4185,
+      "total_characters": 0,
+      "prompt_tokens": 3644,
+      "completion_tokens": 541
+     },
+     {
+      "total_tokens": 4189,
+      "total_characters": 0,
+      "prompt_tokens": 3644,
+      "completion_tokens": 545
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 45,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 7.5,
+    "frame_header": "# frame 45 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0045.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0015": {
+   "item_id": "ca67f999cd33702efe727252017b1625b884b4cb514e7155763ddf74dc5a8159",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 5284,
+      "total_characters": 0,
+      "prompt_tokens": 4747,
+      "completion_tokens": 537
+     },
+     {
+      "total_tokens": 5285,
+      "total_characters": 0,
+      "prompt_tokens": 4747,
+      "completion_tokens": 538
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 15,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 2.5,
+    "frame_header": "# frame 15 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0015.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0030": {
+   "item_id": "2f1d5bfe8cfd3e6d1eafaf3581baef487def9c43132de18b6cf074e983d3d672",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4702,
+      "total_characters": 0,
+      "prompt_tokens": 4162,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4702,
+      "total_characters": 0,
+      "prompt_tokens": 4162,
+      "completion_tokens": 540
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 30,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 5.0,
+    "frame_header": "# frame 30 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0030.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0060": {
+   "item_id": "d0f4a18f02402f37581f761ddceeb0841a601e95c1fa0137e426f7c494dabf7a",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4413,
+      "total_characters": 0,
+      "prompt_tokens": 3872,
+      "completion_tokens": 541
+     },
+     {
+      "total_tokens": 4413,
+      "total_characters": 0,
+      "prompt_tokens": 3872,
+      "completion_tokens": 541
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 60,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 10.0,
+    "frame_header": "# frame 60 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0060.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0075": {
+   "item_id": "776cf63db9c2b3449c9e49e9219a7d7b1e5dc5cf9f8d0d20fafc5bc7bf027158",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4544,
+      "total_characters": 0,
+      "prompt_tokens": 4001,
+      "completion_tokens": 543
+     },
+     {
+      "total_tokens": 4541,
+      "total_characters": 0,
+      "prompt_tokens": 4001,
+      "completion_tokens": 540
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 75,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 12.5,
+    "frame_header": "# frame 75 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0075.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0090": {
+   "item_id": "75220f9ff83a8b891c4a9aebe44fe35cdc373d78c21add09866ebf098172e184",
+   "stats": {
+    "kept": 20,
+    "dropped": 2,
+    "usage": [
+     {
+      "total_tokens": 4995,
+      "total_characters": 0,
+      "prompt_tokens": 4455,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4995,
+      "total_characters": 0,
+      "prompt_tokens": 4455,
+      "completion_tokens": 540
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 90,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 15.0,
+    "frame_header": "# frame 90 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0090.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0105": {
+   "item_id": "4522b77dc8b3babff1d7fa98cefac040415edc60bcb68415f5e1d744f805e7a2",
+   "stats": {
+    "kept": 11,
+    "dropped": 11,
+    "usage": [
+     {
+      "total_tokens": 4754,
+      "total_characters": 0,
+      "prompt_tokens": 4214,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4821,
+      "total_characters": 0,
+      "prompt_tokens": 4214,
+      "completion_tokens": 607
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 105,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 17.5,
+    "frame_header": "# frame 105 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0105.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0120": {
+   "item_id": "8356991b8991b560c65b7450ec2feaa426c7da20bb04bafecdff252c9c7d509d",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4492,
+      "total_characters": 0,
+      "prompt_tokens": 3952,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4497,
+      "total_characters": 0,
+      "prompt_tokens": 3952,
+      "completion_tokens": 545
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 120,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 20.0,
+    "frame_header": "# frame 120 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0120.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0135": {
+   "item_id": "3af77d3a507a18743dee13a960e908c44f159f295b7472a2e8fd4ab8b4cce8a5",
+   "stats": {
+    "kept": 14,
+    "dropped": 8,
+    "usage": [
+     {
+      "total_tokens": 4739,
+      "total_characters": 0,
+      "prompt_tokens": 4197,
+      "completion_tokens": 542
+     },
+     {
+      "total_tokens": 4803,
+      "total_characters": 0,
+      "prompt_tokens": 4197,
+      "completion_tokens": 606
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 135,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 22.5,
+    "frame_header": "# frame 135 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0135.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0150": {
+   "item_id": "de57a4dfa8d87bc008049e081a0eff46b8a932ebae3984cb0a8d84d33a8f3d71",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4782,
+      "total_characters": 0,
+      "prompt_tokens": 4237,
+      "completion_tokens": 545
+     },
+     {
+      "total_tokens": 4777,
+      "total_characters": 0,
+      "prompt_tokens": 4237,
+      "completion_tokens": 540
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 150,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 25.0,
+    "frame_header": "# frame 150 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0150.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0165": {
+   "item_id": "5b1b8f6240e4367697ab8fca08eb688130a24a09bc95e3034a81dee8b7f1b8b7",
+   "stats": {
+    "kept": 16,
+    "dropped": 6,
+    "usage": [
+     {
+      "total_tokens": 5098,
+      "total_characters": 0,
+      "prompt_tokens": 4557,
+      "completion_tokens": 541
+     },
+     {
+      "total_tokens": 5097,
+      "total_characters": 0,
+      "prompt_tokens": 4557,
+      "completion_tokens": 540
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 165,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 27.5,
+    "frame_header": "# frame 165 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0165.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0180": {
+   "item_id": "5b265aa11c39f36fa4104d424ac1a47627d9f2248f851573146e18e77754734c",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4795,
+      "total_characters": 0,
+      "prompt_tokens": 4255,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4795,
+      "total_characters": 0,
+      "prompt_tokens": 4255,
+      "completion_tokens": 540
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 180,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 30.0,
+    "frame_header": "# frame 180 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0180.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0195": {
+   "item_id": "052854054b9533d53c9ae77a955670a59e5390b93cc1580a37841be00b7885a6",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4790,
+      "total_characters": 0,
+      "prompt_tokens": 4250,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4795,
+      "total_characters": 0,
+      "prompt_tokens": 4250,
+      "completion_tokens": 545
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 195,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 32.5,
+    "frame_header": "# frame 195 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0195.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0210": {
+   "item_id": "1001e5fdce7240f6bebb9d03d79d8e0c408973824ff68814b488a93cdcf3cc93",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 5751,
+      "total_characters": 0,
+      "prompt_tokens": 5214,
+      "completion_tokens": 537
+     },
+     {
+      "total_tokens": 5751,
+      "total_characters": 0,
+      "prompt_tokens": 5214,
+      "completion_tokens": 537
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 210,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 35.0,
+    "frame_header": "# frame 210 peak_bin=2 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0210.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0225": {
+   "item_id": "717f93e4b00b31946be382d141fadd8a3b36a83c08cbc640da08e8c8298f1bd7",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 5275,
+      "total_characters": 0,
+      "prompt_tokens": 4737,
+      "completion_tokens": 538
+     },
+     {
+      "total_tokens": 5349,
+      "total_characters": 0,
+      "prompt_tokens": 4737,
+      "completion_tokens": 612
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 225,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 37.5,
+    "frame_header": "# frame 225 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0225.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0240": {
+   "item_id": "5014764d9a437766be6a8b0fbfe491ff2983134310f3044de3ca8c4e20754740",
+   "stats": {
+    "kept": 22,
+    "dropped": 0,
+    "usage": [
+     {
+      "total_tokens": 4684,
+      "total_characters": 0,
+      "prompt_tokens": 4139,
+      "completion_tokens": 545
+     },
+     {
+      "total_tokens": 4680,
+      "total_characters": 0,
+      "prompt_tokens": 4139,
+      "completion_tokens": 541
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 240,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 40.0,
+    "frame_header": "# frame 240 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0240.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0255": {
+   "item_id": "c123e86d6bb7d0ad04b7e111041a4d4fd043bc306ed9dc0b69489ef404343897",
+   "stats": {
+    "kept": 15,
+    "dropped": 7,
+    "usage": [
+     {
+      "total_tokens": 5620,
+      "total_characters": 0,
+      "prompt_tokens": 5079,
+      "completion_tokens": 541
+     },
+     {
+      "total_tokens": 5616,
+      "total_characters": 0,
+      "prompt_tokens": 5079,
+      "completion_tokens": 537
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 255,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 42.5,
+    "frame_header": "# frame 255 peak_bin=2 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0255.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0270": {
+   "item_id": "06492156168f9bb0d2bc0559e9d58534042443eb0e052e35c388cdfc2975f3b0",
+   "stats": {
+    "kept": 20,
+    "dropped": 2,
+    "usage": [
+     {
+      "total_tokens": 4955,
+      "total_characters": 0,
+      "prompt_tokens": 4415,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4952,
+      "total_characters": 0,
+      "prompt_tokens": 4415,
+      "completion_tokens": 537
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 270,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 45.0,
+    "frame_header": "# frame 270 peak_bin=1 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0270.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  },
+  "docks_0285": {
+   "item_id": "5e888fc131a3ac7b851e01a17a4a6bc63d2a95aa7fad5247807c5963deb567d2",
+   "stats": {
+    "kept": 16,
+    "dropped": 6,
+    "usage": [
+     {
+      "total_tokens": 4744,
+      "total_characters": 0,
+      "prompt_tokens": 4204,
+      "completion_tokens": 540
+     },
+     {
+      "total_tokens": 4745,
+      "total_characters": 0,
+      "prompt_tokens": 4204,
+      "completion_tokens": 541
+     }
+    ],
+    "attempts": [
+     1,
+     1
+    ]
+   },
+   "source": {
+    "kind": "docks_text_frame",
+    "frame_index": 285,
+    "plane": "tone",
+    "fps": 6,
+    "timestamp_s": 47.5,
+    "frame_header": "# frame 285 peak_bin=5 cols=148 rows=80",
+    "corpus_file": "syzygy-video/out/docks-text/tone/frame_0285.txt",
+    "source_video": "~/workspace/user/media_library/video/5a/5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0.mp4",
+    "source_video_sha256": "5acbb9b592d6c5b15d516318b6e1a5b534fc55c36b5c71656c79d8a9539475e0"
+   },
+   "split": "train"
+  }
+ },
+ "disagreements": [
+  {
+   "item": "maze_ep00",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SW",
+   "truth": "NW"
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 5,
+   "truth": 7
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 32,
+   "truth": 58
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 67,
+   "truth": 41
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep00",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 5,
+    "col": 5
+   },
+   "truth": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 10,
+    "col": 10
+   },
+   "truth": {
+    "row": 10,
+    "col": 9
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 110
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep02",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 12,
+    "col": 13
+   },
+   "truth": {
+    "row": 12,
+    "col": 11
+   }
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 10,
+   "truth": 8
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 85,
+   "truth": 142
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 160,
+   "truth": 113
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep03",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 3,
+    "col": 4
+   },
+   "truth": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SW",
+   "truth": "NW"
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 5,
+   "truth": 6
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 46,
+   "truth": 60
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 53,
+   "truth": 39
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep04",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "wall",
+   "truth": "free"
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 68,
+   "truth": 58
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep01",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 12,
+   "truth": 17
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 2,
+   "truth": 3
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 110
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep06",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 3,
+    "col": 13
+   },
+   "truth": {
+    "row": 3,
+    "col": 12
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 13,
+    "col": 1
+   },
+   "truth": {
+    "row": 13,
+    "col": 2
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 15,
+   "truth": 20
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 98,
+   "truth": 143
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 157,
+   "truth": 112
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep07",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SW",
+   "truth": "NW"
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 9,
+   "truth": 12
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "free",
+   "truth": "wall"
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 68,
+   "truth": 58
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep05",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 9,
+   "truth": 10
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 46,
+   "truth": 59
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 53,
+   "truth": 40
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep08",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 1,
+    "col": 12
+   },
+   "truth": {
+    "row": 1,
+    "col": 11
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "NW",
+   "truth": "SW"
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 10,
+   "truth": 11
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 101
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 94
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep10",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 3,
+    "col": 5
+   },
+   "truth": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 13,
+    "col": 9
+   },
+   "truth": {
+    "row": 13,
+    "col": 11
+   }
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 15,
+   "truth": 17
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 115,
+   "truth": 145
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 130,
+   "truth": 110
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep11",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 7,
+    "col": 8
+   },
+   "truth": {
+    "row": 7,
+    "col": 9
+   }
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SW",
+   "truth": "NW"
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 5,
+   "truth": 6
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 56,
+   "truth": 87
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 77,
+   "truth": 56
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep09",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 2,
+    "col": 8
+   },
+   "truth": {
+    "row": 2,
+    "col": 9
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 6,
+   "truth": 7
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 40,
+   "truth": 58
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 61,
+   "truth": 41
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep12",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 15,
+   "truth": 18
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 98,
+   "truth": 139
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 157,
+   "truth": 116
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep15",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 8,
+   "truth": 10
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "free",
+   "truth": "wall"
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 62,
+   "truth": 86
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 71,
+   "truth": 57
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep13",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 0,
+    "col": 6
+   },
+   "truth": {
+    "row": 1,
+    "col": 5
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 7,
+    "col": 4
+   },
+   "truth": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 9,
+   "truth": 8
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 110
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep14",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 7,
+    "col": 7
+   },
+   "truth": {
+    "row": 7,
+    "col": 10
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 11,
+    "col": 2
+   },
+   "truth": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 12,
+   "truth": 13
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 110
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep18",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 7,
+    "col": 5
+   },
+   "truth": {
+    "row": 7,
+    "col": 6
+   }
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 3,
+    "col": 6
+   },
+   "truth": {
+    "row": 3,
+    "col": 5
+   }
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NW"
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 40,
+   "truth": 59
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 59,
+   "truth": 40
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep16",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 1,
+    "col": 15
+   },
+   "truth": {
+    "row": 1,
+    "col": 13
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 5,
+    "col": 7
+   },
+   "truth": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 112,
+   "truth": 144
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 133,
+   "truth": 111
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep19",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 7,
+   "truth": 9
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 2,
+   "truth": 1
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 62,
+   "truth": 84
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 71,
+   "truth": 59
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep17",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 10,
+   "truth": 15
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 55,
+   "truth": 86
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 78,
+   "truth": 57
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep21",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 5,
+    "col": 10
+   },
+   "truth": {
+    "row": 5,
+    "col": 11
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 98,
+   "truth": 143
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 157,
+   "truth": 112
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep23",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 7,
+   "truth": 9
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "free",
+   "truth": "wall"
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 44,
+   "truth": 58
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 57,
+   "truth": 41
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep20",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 10,
+    "col": 10
+   },
+   "truth": {
+    "row": 9,
+    "col": 11
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 7,
+   "truth": 8
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 2,
+   "truth": 3
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 109
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 86
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep22",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 14,
+   "truth": 13
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "wall",
+   "truth": "free"
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 112
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 83
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep26",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 44,
+   "truth": 60
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 57,
+   "truth": 39
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep24",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 7,
+   "truth": 8
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 52,
+   "truth": 81
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 81,
+   "truth": 62
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep25",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 4,
+    "col": 6
+   },
+   "truth": {
+    "row": 4,
+    "col": 7
+   }
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SW",
+   "truth": "NW"
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 2,
+   "truth": 3
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 115,
+   "truth": 137
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 130,
+   "truth": 118
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep27",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 7,
+   "truth": 11
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 55,
+   "truth": 84
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 78,
+   "truth": 59
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep29",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "S",
+   "truth": "N"
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 40,
+   "truth": 59
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 59,
+   "truth": 40
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep28",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 3,
+    "col": 5
+   },
+   "truth": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 13,
+    "col": 12
+   },
+   "truth": {
+    "row": 13,
+    "col": 13
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 15,
+   "truth": 19
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 85,
+   "truth": 143
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 160,
+   "truth": 112
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep31",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 2,
+    "col": 10
+   },
+   "truth": {
+    "row": 2,
+    "col": 9
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 9,
+   "truth": 13
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "free",
+   "truth": "wall"
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 106
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 89
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep30",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 1,
+    "col": 8
+   },
+   "truth": {
+    "row": 1,
+    "col": 9
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 4,
+    "col": 5
+   },
+   "truth": {
+    "row": 5,
+    "col": 5
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 5,
+   "truth": 8
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 52,
+   "truth": 82
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 81,
+   "truth": 61
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep33",
+   "kind": "region",
+   "region": "r2c3",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 7,
+   "truth": 5
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 2,
+   "truth": 1
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 40,
+   "truth": 59
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 61,
+   "truth": 40
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep32",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 11,
+   "truth": 9
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "free",
+   "truth": "wall"
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 85,
+   "truth": 143
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 160,
+   "truth": 112
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep35",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 1,
+    "col": 12
+   },
+   "truth": {
+    "row": 1,
+    "col": 11
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "fact",
+   "predicate": "goal_position",
+   "teacher": {
+    "row": 11,
+    "col": 6
+   },
+   "truth": {
+    "row": 11,
+    "col": 9
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 8,
+   "truth": 12
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 110
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r0c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep34",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 9,
+   "truth": 14
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 2,
+   "truth": 3
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 111
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 115,
+   "truth": 84
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep38",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "docks_0000",
+   "kind": "region",
+   "region": "r0c3",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0000",
+   "kind": "region",
+   "region": "r1c3",
+   "pass1": "mid_texture",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0000",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "vertical_lines",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0000",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "horizontal_bands",
+   "pass2": "vertical_lines"
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 14,
+   "truth": 13
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 65,
+   "truth": 85
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 68,
+   "truth": 58
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep37",
+   "kind": "region",
+   "region": "r2c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SW",
+   "truth": "NW"
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 5,
+   "truth": 7
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "fact",
+   "predicate": "west_of_agent",
+   "teacher": "free",
+   "truth": "wall"
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 40,
+   "truth": 60
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 61,
+   "truth": 39
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "region",
+   "region": "r0c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "region",
+   "region": "r1c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "open",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "region",
+   "region": "r1c2",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "open",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep36",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "agent_position",
+   "teacher": {
+    "row": 13,
+    "col": 8
+   },
+   "truth": {
+    "row": 13,
+    "col": 9
+   }
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "goal_direction",
+   "teacher": "SE",
+   "truth": "NE"
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "manhattan_distance",
+   "teacher": 12,
+   "truth": 14
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "agent_adjacent_walls",
+   "teacher": 1,
+   "truth": 2
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "path_exists",
+   "teacher": true,
+   "truth": false
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "goal_sealed",
+   "teacher": false,
+   "truth": true
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "wall_count",
+   "teacher": 85,
+   "truth": 145
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "fact",
+   "predicate": "open_count",
+   "teacher": 175,
+   "truth": 110
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "region",
+   "region": "r0c1",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "region",
+   "region": "r0c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": [
+     "goal"
+    ]
+   }
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "region",
+   "region": "r1c0",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "region",
+   "region": "r1c3",
+   "teacher": {
+    "dominant": "wall",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "region",
+   "region": "r2c1",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": []
+   },
+   "truth": {
+    "dominant": "wall",
+    "contains": []
+   }
+  },
+  {
+   "item": "maze_ep39",
+   "kind": "region",
+   "region": "r2c2",
+   "teacher": {
+    "dominant": "mixed",
+    "contains": [
+     "goal"
+    ]
+   },
+   "truth": {
+    "dominant": "mixed",
+    "contains": [
+     "agent"
+    ]
+   }
+  },
+  {
+   "item": "docks_0045",
+   "kind": "region",
+   "region": "r0c0",
+   "pass1": "mid_texture",
+   "pass2": "bright_open"
+  },
+  {
+   "item": "docks_0045",
+   "kind": "region",
+   "region": "r0c1",
+   "pass1": "mid_texture",
+   "pass2": "bright_open"
+  },
+  {
+   "item": "docks_0045",
+   "kind": "region",
+   "region": "r1c0",
+   "pass1": "dark_mass",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0045",
+   "kind": "region",
+   "region": "r1c3",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0045",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "mid_texture",
+   "pass2": "vertical_lines"
+  },
+  {
+   "item": "docks_0045",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "mid_texture",
+   "pass2": "horizontal_bands"
+  },
+  {
+   "item": "docks_0045",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "mid_texture",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0090",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "mixed",
+   "pass2": "horizontal_bands"
+  },
+  {
+   "item": "docks_0090",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "horizontal_bands",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "fact",
+   "predicate": "brightest_region",
+   "pass1": "r0c3",
+   "pass2": "r0c0"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "fact",
+   "predicate": "darkest_region",
+   "pass1": "r2c0",
+   "pass2": "r2c3"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r0c1",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r0c2",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r0c3",
+   "pass1": "bright_open",
+   "pass2": "dark_mass"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r1c0",
+   "pass1": "mid_texture",
+   "pass2": "bright_open"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r1c3",
+   "pass1": "mid_texture",
+   "pass2": "dark_mass"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r2c0",
+   "pass1": "dark_mass",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "vertical_lines",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "horizontal_bands",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0105",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "mixed",
+   "pass2": "dark_mass"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "fact",
+   "predicate": "brightest_region",
+   "pass1": "r0c3",
+   "pass2": "r0c0"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "fact",
+   "predicate": "darkest_region",
+   "pass1": "r2c0",
+   "pass2": "r2c3"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "region",
+   "region": "r0c3",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "region",
+   "region": "r1c3",
+   "pass1": "mid_texture",
+   "pass2": "dark_mass"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "region",
+   "region": "r2c0",
+   "pass1": "dark_mass",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "vertical_lines",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "horizontal_bands",
+   "pass2": "dark_mass"
+  },
+  {
+   "item": "docks_0135",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "mixed",
+   "pass2": "dark_mass"
+  },
+  {
+   "item": "docks_0165",
+   "kind": "fact",
+   "predicate": "brightest_region",
+   "pass1": "r0c0",
+   "pass2": "r0c2"
+  },
+  {
+   "item": "docks_0165",
+   "kind": "fact",
+   "predicate": "darkest_region",
+   "pass1": "r2c1",
+   "pass2": "r2c0"
+  },
+  {
+   "item": "docks_0165",
+   "kind": "region",
+   "region": "r0c3",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0165",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "dark_mass",
+   "pass2": "vertical_lines"
+  },
+  {
+   "item": "docks_0165",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "dark_mass",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0165",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "dark_mass",
+   "pass2": "horizontal_bands"
+  },
+  {
+   "item": "docks_0255",
+   "kind": "region",
+   "region": "r0c0",
+   "pass1": "mid_texture",
+   "pass2": "bright_open"
+  },
+  {
+   "item": "docks_0255",
+   "kind": "region",
+   "region": "r0c1",
+   "pass1": "mid_texture",
+   "pass2": "bright_open"
+  },
+  {
+   "item": "docks_0255",
+   "kind": "region",
+   "region": "r1c0",
+   "pass1": "dark_mass",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0255",
+   "kind": "region",
+   "region": "r1c3",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0255",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "mid_texture",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0255",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "mid_texture",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0255",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "mid_texture",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0270",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "vertical_lines",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0270",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "horizontal_bands",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0285",
+   "kind": "fact",
+   "predicate": "brightest_region",
+   "pass1": "r0c3",
+   "pass2": "r0c2"
+  },
+  {
+   "item": "docks_0285",
+   "kind": "region",
+   "region": "r0c3",
+   "pass1": "bright_open",
+   "pass2": "mid_texture"
+  },
+  {
+   "item": "docks_0285",
+   "kind": "region",
+   "region": "r1c3",
+   "pass1": "mid_texture",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0285",
+   "kind": "region",
+   "region": "r2c1",
+   "pass1": "vertical_lines",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0285",
+   "kind": "region",
+   "region": "r2c2",
+   "pass1": "horizontal_bands",
+   "pass2": "mixed"
+  },
+  {
+   "item": "docks_0285",
+   "kind": "region",
+   "region": "r2c3",
+   "pass1": "mixed",
+   "pass2": "vertical_lines"
+  }
+ ],
+ "wall_s": 567.2
+}

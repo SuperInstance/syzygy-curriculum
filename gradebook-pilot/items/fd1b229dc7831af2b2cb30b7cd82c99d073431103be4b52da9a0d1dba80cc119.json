@@ -1,0 +1,432 @@
+{
+ "item_id": "fd1b229dc7831af2b2cb30b7cd82c99d073431103be4b52da9a0d1dba80cc119",
+ "gb_version": "pilot-0.1",
+ "source": {
+  "kind": "mazelab_episode",
+  "episode_id": "ep37",
+  "seed": 2037,
+  "provenance": "syzygy-program/reading-experiment/episodes.jsonl"
+ },
+ "split": "train",
+ "frame": {
+  "format": "text",
+  "plane": "glyph",
+  "cols": 13,
+  "rows": 11,
+  "text": "#############\n#...........#\n#.#########.#\n#.#.......#.#\n#.#.#####.###\n#.#.#...#.#G#\n#.#.###.#.###\n#.#...#...#.#\n#A#####.###.#\n#...........#\n#############"
+ },
+ "teacher": {
+  "model": "MiniMax-Text-01",
+  "role": "teacher",
+  "passes": 1,
+  "temperature": 0.0
+ },
+ "facts": [
+  {
+   "predicate": "agent_position",
+   "value": {
+    "row": 8,
+    "col": 1
+   },
+   "recoverability": "recoverable",
+   "verification": {
+    "status": "agree",
+    "truth": {
+     "row": 8,
+     "col": 1
+    }
+   }
+  },
+  {
+   "predicate": "goal_position",
+   "value": {
+    "row": 5,
+    "col": 11
+   },
+   "recoverability": "recoverable",
+   "verification": {
+    "status": "agree",
+    "truth": {
+     "row": 5,
+     "col": 11
+    }
+   }
+  },
+  {
+   "predicate": "goal_direction",
+   "value": "SE",
+   "recoverability": "recoverable",
+   "verification": {
+    "status": "disagree",
+    "truth": "NE"
+   }
+  },
+  {
+   "predicate": "manhattan_distance",
+   "value": 14,
+   "recoverability": "hard",
+   "verification": {
+    "status": "disagree",
+    "truth": 13
+   }
+  },
+  {
+   "predicate": "agent_adjacent_walls",
+   "value": 2,
+   "recoverability": "recoverable",
+   "verification": {
+    "status": "agree",
+    "truth": 2
+   }
+  },
+  {
+   "predicate": "west_of_agent",
+   "value": "wall",
+   "recoverability": "recoverable",
+   "verification": {
+    "status": "agree",
+    "truth": "wall"
+   }
+  },
+  {
+   "predicate": "path_exists",
+   "value": true,
+   "recoverability": "hard",
+   "verification": {
+    "status": "disagree",
+    "truth": false
+   }
+  },
+  {
+   "predicate": "goal_sealed",
+   "value": false,
+   "recoverability": "recoverable",
+   "verification": {
+    "status": "disagree",
+    "truth": true
+   }
+  },
+  {
+   "predicate": "wall_count",
+   "value": 65,
+   "recoverability": "hard",
+   "verification": {
+    "status": "disagree",
+    "truth": 85
+   }
+  },
+  {
+   "predicate": "open_count",
+   "value": 68,
+   "recoverability": "hard",
+   "verification": {
+    "status": "disagree",
+    "truth": 58
+   }
+  }
+ ],
+ "region_labels": [
+  {
+   "region": "r0c0",
+   "dominant": "wall",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     0,
+     4
+    ],
+    "cols": [
+     0,
+     3
+    ]
+   },
+   "verification": {
+    "status": "agree",
+    "dominant_ok": true,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "wall",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r0c1",
+   "dominant": "open",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     0,
+     4
+    ],
+    "cols": [
+     3,
+     6
+    ]
+   },
+   "verification": {
+    "status": "disagree",
+    "dominant_ok": false,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "mixed",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r0c2",
+   "dominant": "open",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     0,
+     4
+    ],
+    "cols": [
+     6,
+     10
+    ]
+   },
+   "verification": {
+    "status": "disagree",
+    "dominant_ok": false,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "mixed",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r0c3",
+   "dominant": "wall",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     0,
+     4
+    ],
+    "cols": [
+     10,
+     13
+    ]
+   },
+   "verification": {
+    "status": "agree",
+    "dominant_ok": true,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "wall",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r1c0",
+   "dominant": "wall",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     4,
+     7
+    ],
+    "cols": [
+     0,
+     3
+    ]
+   },
+   "verification": {
+    "status": "agree",
+    "dominant_ok": true,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "wall",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r1c1",
+   "dominant": "open",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     4,
+     7
+    ],
+    "cols": [
+     3,
+     6
+    ]
+   },
+   "verification": {
+    "status": "disagree",
+    "dominant_ok": false,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "mixed",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r1c2",
+   "dominant": "open",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     4,
+     7
+    ],
+    "cols": [
+     6,
+     10
+    ]
+   },
+   "verification": {
+    "status": "disagree",
+    "dominant_ok": false,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "mixed",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r1c3",
+   "dominant": "wall",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     4,
+     7
+    ],
+    "cols": [
+     10,
+     13
+    ]
+   },
+   "verification": {
+    "status": "disagree",
+    "dominant_ok": true,
+    "contains_ok": false,
+    "truth": {
+     "dominant": "wall",
+     "contains": [
+      "goal"
+     ]
+    }
+   }
+  },
+  {
+   "region": "r2c0",
+   "dominant": "wall",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     7,
+     11
+    ],
+    "cols": [
+     0,
+     3
+    ]
+   },
+   "verification": {
+    "status": "disagree",
+    "dominant_ok": true,
+    "contains_ok": false,
+    "truth": {
+     "dominant": "wall",
+     "contains": [
+      "agent"
+     ]
+    }
+   }
+  },
+  {
+   "region": "r2c1",
+   "dominant": "mixed",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     7,
+     11
+    ],
+    "cols": [
+     3,
+     6
+    ]
+   },
+   "verification": {
+    "status": "agree",
+    "dominant_ok": true,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "mixed",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r2c2",
+   "dominant": "mixed",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     7,
+     11
+    ],
+    "cols": [
+     6,
+     10
+    ]
+   },
+   "verification": {
+    "status": "agree",
+    "dominant_ok": true,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "mixed",
+     "contains": []
+    }
+   }
+  },
+  {
+   "region": "r2c3",
+   "dominant": "wall",
+   "contains": [],
+   "cell_range": {
+    "rows": [
+     7,
+     11
+    ],
+    "cols": [
+     10,
+     13
+    ]
+   },
+   "verification": {
+    "status": "agree",
+    "dominant_ok": true,
+    "contains_ok": true,
+    "truth": {
+     "dominant": "wall",
+     "contains": []
+    }
+   }
+  }
+ ],
+ "hints": [
+  {
+   "failure_mode": "sealed_goal_assertion",
+   "hint": "Check the goal's surroundings before concluding a path exists."
+  },
+  {
+   "failure_mode": "wall_count_constant_guess",
+   "hint": "Count walls cell by cell rather than guessing a typical number."
+  }
+ ]
+}
